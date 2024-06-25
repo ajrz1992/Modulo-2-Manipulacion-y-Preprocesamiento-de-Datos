@@ -1,0 +1,119 @@
+#Parte 1 Limpieza de Datos y Deteccion de Outliers Sencillos
+
+#Instalacion de paquetes necesarios
+
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("readr")
+install.packages("gridExtra")
+
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+
+#Carga del Dataset
+ventas <- read.csv("Ventas_Supermercado.csv", encoding = 'latin1')
+
+#Vista previa de los datos
+head(ventas)
+summary(ventas)
+
+#Detectar valores faltantes:
+colSums(is.na(ventas))
+
+#Rellenar valores faltantes
+ventas <- ventas %>% mutate(Cantidad = ifelse(is.na(Cantidad), 0, Cantidad))
+ventas
+
+#Rellenar valores faltantes para precio Unitario
+ventas <- ventas %>% mutate(Precio_Unitario = ifelse(is.na(Precio_Unitario), mean(Precio_Unitario,
+                                                                                  na.rm = TRUE), Precio_Unitario))
+#Detectar outliers
+#Creamos un gráfico de caja y bigotes (Box Plot) para detectar outliers en Total_Venta
+ggplot(ventas, aes(x = Categoría, y = Total_Venta)) +
+  geom_boxplot() +
+  theme_minimal()
+
+#limitar los valores de Total_Venta a un máximo de 500
+ventas <- ventas %>% mutate(Total_Venta_Limitado = ifelse(Total_Venta > 500, 500, Total_Venta))
+
+
+
+
+#Parte 2 Rango intercuartílico
+
+# Boxplot de Total_Venta antes del ajuste
+p1 <- ggplot(ventas, aes(y = Total_Venta)) +
+  geom_boxplot(fill = "lightblue") +
+  ggtitle("Boxplot de Total_Venta (Antes del ajuste)") +
+  ylab("Total Venta")
+
+# Boxplot de Total_Venta después del ajuste
+p2 <- ggplot(ventas, aes(y = Total_Venta_Limitado)) +
+  geom_boxplot(fill = "lightgreen") +
+  ggtitle("Boxplot de Total_Venta (Después del ajuste)") +
+  ylab("Total Venta Limitado")
+
+# Mostrar ambos boxplots
+grid.arrange(p1, p2, nrow = 1)
+
+
+write_csv(ventas, "Ventas_Supermercado_Limpio.csv")
+ggsave("Ventas_por_Categoria.jpg")
+
+
+ggplot(ventas, aes(x = Categoría, y = Total_Venta_Limitado, fill = Categoría)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+  labs(title = "Ventas por Categoría", y = "Total Venta (Limitado)", x = "Categoría")
+
+
+
+# Función para detectar outliers usando el rango intercuartílico (IQR)
+detect_outliers <- function(x) {
+  Q1 <- quantile(x, 0.25)
+  Q3 <- quantile(x, 0.75)
+  IQR <- Q3 - Q1
+  lower_bound <- Q1 - 1.5 * IQR
+  upper_bound <- Q3 + 1.5 * IQR
+  return(x < lower_bound | x > upper_bound)
+}
+
+# Detectar outliers en 'Cantidad'
+outliers_cantidad <- detect_outliers(ventas$Cantidad)
+ventas <- ventas[!outliers_cantidad, ]
+
+# Detectar outliers en 'Precio_Unitario'
+outliers_precio <- detect_outliers(ventas$Precio_Unitario)
+ventas <- ventas[!outliers_precio, ]
+
+# Detectar outliers en 'Total_Venta'
+outliers_total <- detect_outliers(ventas$Total_Venta)
+ventas <- ventas[!outliers_total, ]
+
+
+# Graficar Cuantiles para 'Cantidad'
+ggplot(ventas, aes(x = Cantidad)) +
+  geom_histogram(binwidth = 5, fill = 'blue', alpha = 0.7) +
+  geom_vline(aes(xintercept = quantile(Cantidad, 0.25)), color = 'red', linetype = "dashed") +
+  geom_vline(aes(xintercept = quantile(Cantidad, 0.5)), color = 'green', linetype = "dashed") +
+  geom_vline(aes(xintercept = quantile(Cantidad, 0.75)), color = 'red', linetype = "dashed") +
+  ggtitle("Distribución de Cantidad con Cuantiles")
+
+# Graficar Cuantiles para 'Precio_Unitario'
+ggplot(ventas, aes(x = Precio_Unitario)) +
+  geom_histogram(binwidth = 5, fill = 'blue', alpha = 0.7) +
+  geom_vline(aes(xintercept = quantile(Precio_Unitario, 0.25)), color = 'red', linetype = "dashed") +
+  geom_vline(aes(xintercept = quantile(Precio_Unitario, 0.5)), color = 'green', linetype = "dashed") +
+  geom_vline(aes(xintercept = quantile(Precio_Unitario, 0.75)), color = 'red', linetype = "dashed") +
+  ggtitle("Distribución de Precio Unitario con Cuantiles")
+
+# Graficar Cuantiles para 'Total_Venta'
+ggplot(ventas, aes(x = Total_Venta)) +
+  geom_histogram(binwidth = 50, fill = 'blue', alpha = 0.7) +
+  geom_vline(aes(xintercept = quantile(Total_Venta, 0.25)), color = 'red', linetype = "dashed") +
+  geom_vline(aes(xintercept = quantile(Total_Venta, 0.5)), color = 'green', linetype = "dashed") +
+  geom_vline(aes(xintercept = quantile(Total_Venta, 0.75)), color = 'red', linetype = "dashed") +
+  ggtitle("Distribución de Total de Venta con Cuantiles")
+
