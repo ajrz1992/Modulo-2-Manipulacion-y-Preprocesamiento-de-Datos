@@ -1,0 +1,55 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+from string import digits
+
+# Inicializar listas para almacenar los datos
+productlinks = []
+precio = []
+nombres = []
+
+# Definir el encabezado del navegador para evitar ser bloqueado por el sitio web
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'} 
+
+# Obtener el HTML de la página principal de productos
+k = requests.get('https://www.infotec.com.pe/3-laptops-y-notebooks').text
+soup = BeautifulSoup(k, 'html.parser')
+
+# Encontrar todos los enlaces de productos
+productlist = soup.find_all("h2", {"class": "h3 product-title"})
+for product in productlist:
+    link = product.find("a").get('href')
+    productlinks.append(link)               
+
+# Obtener detalles de cada producto
+for link in productlinks:
+    f = requests.get(link, headers=headers).text
+    hun = BeautifulSoup(f, 'html.parser')
+    try:
+        nombre = hun.find("h2", {"class": "h3 product-title"}).text.strip()
+    except:
+        nombre = None
+    nombres.append(nombre)
+    
+    # Obtener el precio del producto
+    elemento_div = hun.find('div', class_='product-price-and-shipping')
+    if elemento_div:
+        elemento_span = elemento_div.find('span')
+        if elemento_span:
+            precio.append(elemento_span.text.strip())
+        else:
+            precio.append(None)
+    else:
+        precio.append(None)
+
+# Crear un DataFrame con los datos recolectados
+data = {
+    "Nombre": nombres,
+    "Precio": precio,
+    "Link": productlinks
+}
+df = pd.DataFrame(data)
+
+# Exportar el DataFrame a un archivo Excel
+df.to_excel('productos_infotec.xlsx', index=False)
+print("Datos exportados a productos_infotec.xlsx")
