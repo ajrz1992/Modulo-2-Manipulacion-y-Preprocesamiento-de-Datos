@@ -27,9 +27,9 @@ password = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SE
 
 # Ingresar el nombre de usuario y la contraseña
 username.clear()
-username.send_keys("mrinfinito1@gmail.com")
+username.send_keys("correo")
 password.clear()
-password.send_keys("Pinguinos1103#$")
+password.send_keys("password")
 
 # Obtener y hacer clic en el botón de inicio de sesión
 button = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "button[type='submit']")))
