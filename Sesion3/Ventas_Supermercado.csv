@@ -1,6 +1,6 @@
-ID_Venta,Fecha,Producto,CategorÌa,Cantidad,Precio_Unitario,Total_Venta
-c5086103-c71c-49b5-93ca-bdc4ac825fcd,2021-07-10,Galletas de ChÌa,Alimentos,17,82.27,1398.59
-0c9e4c82-464f-4b42-8d2c-63c7b15d323b,2020-09-23,Jugo de Naranja Org·nico,Alimentos,6,45.49,272.94
+ID_Venta,Fecha,Producto,Categor√≠a,Cantidad,Precio_Unitario,Total_Venta
+c5086103-c71c-49b5-93ca-bdc4ac825fcd,2021-07-10,Galletas de Ch√≠a,Alimentos,17,82.27,1398.59
+0c9e4c82-464f-4b42-8d2c-63c7b15d323b,2020-09-23,Jugo de Naranja Org√°nico,Alimentos,6,45.49,272.94
 1c8624af-f03e-4df2-ba56-252ec6c6f3c2,2024-01-19,Pan Integral con Semillas,Alimentos,17,,1497.36
 0eecf6a9-a590-4c96-9665-5fd510c4ada3,2022-03-24,Yogur de Fresa,Alimentos,6,94.07,564.42
 a81a8477-a374-4ba6-9666-7b87be7b61db,2023-11-15,Miel de Abeja Pura,Alimentos,14,,695.66
@@ -13,19 +13,19 @@ bd44481f-d654-4df9-ba55-c97407447735,2021-04-26,Arroz Integral,Alimentos,14,,987
 05078453-5eae-402e-909a-5772358cf2ed,2021-01-16,Galletas de Avena,Alimentos,7,1.85,12.95
 24f4b26e-6636-4dd1-8e44-f02b72a26735,2020-11-11,Barritas de Granola,Alimentos,7,85.09,595.63
 9932d030-7eec-446f-ae2a-8c8364dbc779,2023-10-04,Leche de Almendras,Alimentos,,98.56,1576.96
-b9307221-787f-4ad1-b044-e5ebaa61ed7b,2022-10-06,TÈ Verde Matcha,Alimentos,15,25.3,379.5
-b3560fa0-2960-40f6-8400-c9e4d68ab232,2022-02-03,Mermelada de Ar·ndanos,Alimentos,11,,475.31
+b9307221-787f-4ad1-b044-e5ebaa61ed7b,2022-10-06,T√© Verde Matcha,Alimentos,15,25.3,379.5
+b3560fa0-2960-40f6-8400-c9e4d68ab232,2022-02-03,Mermelada de Ar√°ndanos,Alimentos,11,,475.31
 1fa7bce7-5ca6-4ff4-a232-7f9a8e7e0ed0,2023-10-21,Harina de Almendra,Alimentos,8,14.18,113.44
-b1c657e0-406e-40e4-ad99-41b13d680891,2022-04-10,Sopas Instant·neas de Vegetales,Alimentos,1,71.42,71.42
+b1c657e0-406e-40e4-ad99-41b13d680891,2022-04-10,Sopas Instant√°neas de Vegetales,Alimentos,1,71.42,71.42
 df40d20b-f170-4c41-b4ec-adbb41d81701,2024-06-03,Chips de Kale,Alimentos,19,27.22,517.18
 897f7b18-f101-4139-9857-8d5daf72509c,2022-07-16,Hummus de Garbanzo,Alimentos,19,52.26,992.94
 773ce7bc-1e04-4dd2-b7f2-85245b37be2c,2022-07-10,Galletas de Coco,Alimentos,18,27.94,502.92
 8cd51f2e-7588-4612-ad62-75105c3b0263,2021-01-19,Aceite de Oliva Virgen Extra,Alimentos,18,68.04,1224.72
-b966c7e2-045f-404f-9067-85955b44d9f2,2023-04-22,Quinoa Org·nica,Alimentos,3,20.03,60.09
+b966c7e2-045f-404f-9067-85955b44d9f2,2023-04-22,Quinoa Org√°nica,Alimentos,3,20.03,60.09
 d77fb0ab-d3cb-4dc1-bc65-4b89b8450c16,2022-05-25,Almendras Tostadas,Alimentos,6,33.64,201.84
 e2256d04-d35a-4302-bce9-393595da14f6,2023-11-29,Ensalada de Frutas,Alimentos,,29.8,119.2
-a3528b4e-fba8-4a34-be4d-430f2b149c69,2022-09-11,Jugo de Manzana Sin Az˙car,Alimentos,14,22.28,311.92
-4646a27c-5fd8-4a5e-b8cd-3d398be46949,2020-02-25,Mantequilla de ManÌ,Alimentos,19,51.94,986.86
+a3528b4e-fba8-4a34-be4d-430f2b149c69,2022-09-11,Jugo de Manzana Sin Az√∫car,Alimentos,14,22.28,311.92
+4646a27c-5fd8-4a5e-b8cd-3d398be46949,2020-02-25,Mantequilla de Man√≠,Alimentos,19,51.94,986.86
 2942dc83-045f-4772-9363-f85b32fdb477,2024-02-17,Galletas de Jengibre,Alimentos,1,,94.65
 8a4f8d45-3bff-4f80-9c6c-f42bbf0c62f9,2023-10-17,Chocolate Negro,Alimentos,18,61.01,1098.18
 42c8522e-91f6-494c-9914-aeb4bbf86a7c,2022-12-31,Bebida de Avena,Alimentos,12,3,36
@@ -39,7 +39,7 @@ a5c36b99-b05a-44d6-bebd-f1aafca94506,2020-04-24,Galletas de Arroz,Alimentos,15,4
 2ece9651-a4fd-4a8d-acad-8a797bb91bfe,2021-12-07,Lentejas Rojas,Alimentos,3,96.22,288.66
 d1a31bbb-66f9-44ee-8b99-6f928f304e2e,2023-10-24,Nueces de Brasil,Alimentos,4,45.73,182.92
 a0f7076c-0d18-4fde-a85e-cc6b7abcad3b,2024-02-07,Ensalada de Quinua,Alimentos,19,21.32,405.08
-fd8ed069-6b4e-4978-8e75-810a5fe54b1d,2020-05-26,Jugo de Uva Sin Az˙car,Alimentos,12,38.65,463.8
+fd8ed069-6b4e-4978-8e75-810a5fe54b1d,2020-05-26,Jugo de Uva Sin Az√∫car,Alimentos,12,38.65,463.8
 d966729a-a39a-4886-9fea-8551f05aa340,2020-06-21,Mantequilla de Almendra,Alimentos,15,11.48,172.2
 557c0794-1347-449e-8da3-d58ed4df844f,2024-05-11,Galletas de Almendra,Alimentos,4,18.68,74.72
 156d4218-42a1-4556-86b3-61f3a583e285,2023-11-06,Chocolate Blanco,Alimentos,12,39.04,468.48
@@ -47,14 +47,14 @@ d966729a-a39a-4886-9fea-8551f05aa340,2020-06-21,Mantequilla de Almendra,Alimento
 a4c72991-f881-4279-92ea-7866f3cde4f8,2023-06-08,Mermelada de Frambuesa,Alimentos,18,88.05,1584.9
 a776809a-5bfb-4d4a-90b8-c235c438e14e,2024-01-09,Harina de Avena,Alimentos,2,67.29,134.58
 ac541169-0c5c-4a5a-ad41-b2e32998710a,2020-12-07,Salsa Barbacoa Vegana,Alimentos,16,39.21,627.36
-c4679152-28d2-41bd-ac7b-b514c02ece61,2021-10-11,Chips de Pl·tano,Alimentos,,,97.2
+c4679152-28d2-41bd-ac7b-b514c02ece61,2021-10-11,Chips de Pl√°tano,Alimentos,,,97.2
 352122dd-a72d-4c8c-b783-f5a610317c21,2021-09-17,Hummus de Remolacha,Alimentos,1,21.45,21.45
 dfb61d29-7761-47d5-8bde-368df3d422cf,2022-03-13,Galletas de Chocolate,Alimentos,15,33.08,496.2
 838e13ed-8bd3-45ca-bcc6-6151f09ddd19,2022-10-25,Aceite de Girasol,Alimentos,,92.81,185.62
-0a42ed8e-12c7-4679-8813-e7980f071972,2023-11-20,Garbanzos Org·nicos,Alimentos,7,11.58,81.06
+0a42ed8e-12c7-4679-8813-e7980f071972,2023-11-20,Garbanzos Org√°nicos,Alimentos,7,11.58,81.06
 0ea43c80-6fde-44b2-8023-f745273d409b,2023-10-01,Anacardos Tostados,Alimentos,,14.06,112.48
 faa7f83c-b6c8-47dd-9cf3-173d9b080ece,2021-11-21,Ensalada de Couscous,Alimentos,,12.45,224.1
-02376007-d497-47ab-9d7a-63b3c6ecce24,2023-03-18,Jugo de PiÒa Sin Az˙car,Alimentos,13,86.83,1128.79
+02376007-d497-47ab-9d7a-63b3c6ecce24,2023-03-18,Jugo de Pi√±a Sin Az√∫car,Alimentos,13,86.83,1128.79
 84afd059-bd91-4a8a-81e1-606da91d0880,2020-02-24,Mantequilla de Cacahuate,Alimentos,17,23.11,392.87
 c0e527ad-c532-4e92-ba14-1fbec690fcb5,2023-03-03,Galletas de Canela,Alimentos,11,97.15,1068.65
 5c3909fd-cb76-4683-ba5c-803a33218032,2021-11-21,Chocolate con Leche,Alimentos,11,85.14,936.54
@@ -64,60 +64,60 @@ c0e527ad-c532-4e92-ba14-1fbec690fcb5,2023-03-03,Galletas de Canela,Alimentos,11,
 4121eed5-78b5-430d-8a03-98724b021d5f,2022-12-03,Salsa de Pesto,Alimentos,6,67.9,407.4
 ae2f5b96-317b-42d6-a13a-2f95ad4fd3b6,2023-02-07,Chips de Zanahoria,Alimentos,10,,495.3
 c905d59b-f0d5-47b3-a70f-6a384a2bacee,2021-07-17,Guacamole Picante,Alimentos,14,9.31,130.34
-fccdaf56-27b1-4572-a1e8-7d346bc2aa3d,2022-12-26,Galletas de LimÛn,Alimentos,3,12.66,37.98
+fccdaf56-27b1-4572-a1e8-7d346bc2aa3d,2022-12-26,Galletas de Lim√≥n,Alimentos,3,12.66,37.98
 c0d10efb-d7aa-4c17-aaa4-d2985638767d,2022-01-02,Aceite de Aguacate,Alimentos,4,15.7,62.8
-a7c001de-bc83-431d-9bd0-4c756deaa51b,2022-01-21,Frijoles Negros Org·nicos,Alimentos,3,28.99,86.97
+a7c001de-bc83-431d-9bd0-4c756deaa51b,2022-01-21,Frijoles Negros Org√°nicos,Alimentos,3,28.99,86.97
 5ca18192-281e-4bcd-8c8b-1e12cec87453,2023-12-31,Nueces de Macadamia,Alimentos,,84.33,168.66
-b3937ae5-4d6c-49e2-aa04-caa53deca2a9,2022-07-19,Ensalada de TabulÈ,Alimentos,16,19.8,316.8
-dedadba0-95cd-4066-81f6-ccb0b0f40609,2021-03-08,Jugo de Ar·ndano Sin Az˙car,Alimentos,4,,292.2
+b3937ae5-4d6c-49e2-aa04-caa53deca2a9,2022-07-19,Ensalada de Tabul√©,Alimentos,16,19.8,316.8
+dedadba0-95cd-4066-81f6-ccb0b0f40609,2021-03-08,Jugo de Ar√°ndano Sin Az√∫car,Alimentos,4,,292.2
 3aaaed57-ce9f-457f-9278-85b163e758cc,2023-03-15,Mantequilla Clarificada (Ghee),Alimentos,12,67.66,811.92
 921adbb4-d422-4500-8b14-542d6c5c4c32,2022-02-10,Galletas de Mantequilla,Alimentos,9,72.09,648.81
 4a80325b-a522-46a6-9fe1-9c862a21812d,2022-07-20,Chocolate con Avellanas,Alimentos,2,27.59,55.18
 fb48fbb8-57c4-4170-be6f-d171e6abf4c5,2021-07-10,Bebida de Arroz,Alimentos,17,90.3,1535.1
 86bbc1f9-c859-455a-a971-12f2a784870c,2023-02-24,Mermelada de Ciruela,Alimentos,4,86.54,346.16
 75266af6-ac0d-4e29-9d39-9bcc9b7f4292,2020-02-29,Harina de Trigo Integral,Alimentos,18,72.57,1306.26
-c0c13f97-58fe-4888-9870-76af61ac101d,2020-07-28,Salsa de ManÌ,Alimentos,,79.93,719.37
+c0c13f97-58fe-4888-9870-76af61ac101d,2020-07-28,Salsa de Man√≠,Alimentos,,79.93,719.37
 fbd35658-e396-4d65-a2e3-d4a4d5413955,2023-12-10,Chips de Manzana,Alimentos,6,80.04,480.24
 13f3175e-5eac-4e7a-9b07-57f80e38bf85,2021-10-19,Hummus de Pimiento,Alimentos,1,99.73,99.73
 4632b866-5e40-46b6-b150-436a4f0c3dc8,2023-10-29,Galletas de Nuez,Alimentos,16,69.52,1112.32
-8048e5d0-1f4a-4889-baaf-341630089978,2022-03-15,Aceite de SÈsamo,Alimentos,4,1.47,5.88
-832c50c8-474a-49bb-ad46-efbd8606cfbc,2022-07-05,Frijoles Pintos Org·nicos,Alimentos,5,,493.6
+8048e5d0-1f4a-4889-baaf-341630089978,2022-03-15,Aceite de S√©samo,Alimentos,4,1.47,5.88
+832c50c8-474a-49bb-ad46-efbd8606cfbc,2022-07-05,Frijoles Pintos Org√°nicos,Alimentos,5,,493.6
 231ec94c-0218-4afe-a121-a9721e8df962,2022-02-04,Pistachos Tostados,Alimentos,6,86.57,519.42
 d7317e26-06d5-4526-87fc-eb51b94d07c7,2024-04-04,Ensalada de Garbanzo,Alimentos,2,91.18,182.36
-8cdf3f73-e916-43bd-b6d1-2ec24f17b3c4,2020-06-30,Jugo de Tomate Sin Az˙car,Alimentos,12,85.35,1024.2
+8cdf3f73-e916-43bd-b6d1-2ec24f17b3c4,2020-06-30,Jugo de Tomate Sin Az√∫car,Alimentos,12,85.35,1024.2
 65692ca7-1ed2-47d1-9662-6780d562e4f3,2023-09-25,Mantequilla de Semillas de Girasol,Alimentos,19,37.92,720.48
 e6578b9e-75d7-48ae-865c-db550ce2e5e9,2021-12-16,Galletas de Chocolate Blanco,Alimentos,10,33.87,338.7
 e9fd3225-49e1-4d22-a135-86d3512c9eda,2023-12-06,Chocolate con Naranja,Alimentos,19,35.55,675.45
-ac967f6d-fa15-4d52-a26f-b3adbc6b3ed0,2023-02-03,Bebida de CaÒihua,Alimentos,14,31.51,441.14
+ac967f6d-fa15-4d52-a26f-b3adbc6b3ed0,2023-02-03,Bebida de Ca√±ihua,Alimentos,14,31.51,441.14
 ac586792-34e9-4353-aea6-f51593443411,2024-06-15,Mermelada de Uva,Alimentos,16,99.32,1589.12
 b4ce26b2-2700-4d80-ba65-92c6c917a4ab,2024-01-08,Harina de Espelta,Alimentos,,44.19,397.71
 7e4d6e62-aba7-43a7-9b3b-5350b7ed7e26,2021-09-17,Salsa Tzatziki,Alimentos,10,34.4,344
 cec01854-7bb7-4c15-994f-1479c4c68581,2022-10-31,Chips de Coco,Alimentos,5,74.06,370.3
 b2acfc3e-8572-4a80-9e41-a74941e72c7c,2021-12-23,Guacamole con Tomate,Alimentos,16,99.98,1599.68
-e134e641-0521-45e5-b802-e94a3b230d9f,2022-04-26,Galletas de CafÈ,Alimentos,5,81.05,405.25
+e134e641-0521-45e5-b802-e94a3b230d9f,2022-04-26,Galletas de Caf√©,Alimentos,5,81.05,405.25
 b12286cb-37bb-4810-b10e-b6c39877196d,2023-06-08,Aceite de Linaza,Alimentos,6,29.72,178.32
-40156abb-07d3-4af8-a402-2cde2a1d7150,2020-07-31,Frijoles Blancos Org·nicos,Alimentos,,,146.76
+40156abb-07d3-4af8-a402-2cde2a1d7150,2020-07-31,Frijoles Blancos Org√°nicos,Alimentos,,,146.76
 d56603fc-16d3-4165-8fbc-586906758f36,2020-03-24,Semillas de Calabaza,Alimentos,2,33.18,66.36
 eeb3cf5f-54ae-423e-8879-1786b4842ea5,2020-12-02,Ensalada de Espinaca,Alimentos,1,10.29,10.29
-ff8cdc2c-1809-458b-93a2-4445f008fe95,2020-04-16,Jugo de Granadilla Sin Az˙car,Alimentos,9,71.7,645.3
+ff8cdc2c-1809-458b-93a2-4445f008fe95,2020-04-16,Jugo de Granadilla Sin Az√∫car,Alimentos,9,71.7,645.3
 1da0b85b-b245-41bc-ac15-27c9044db267,2023-01-01,Mantequilla de Anacardo,Alimentos,14,,537.46
-775898ce-63db-4359-9ddd-e299a3710995,2020-07-17,Galletas de Ar·ndano,Alimentos,,36.26,72.52
+775898ce-63db-4359-9ddd-e299a3710995,2020-07-17,Galletas de Ar√°ndano,Alimentos,,36.26,72.52
 468c0fb7-a0e2-4f75-854b-ee2e390ce47f,2021-03-04,Chocolate con Menta,Alimentos,5,53.94,269.7
-e3230970-8141-43b3-9a56-f7502bb6c5c7,2023-11-15,Bebida de ChÌa,Alimentos,3,97.84,293.52
-45a122c2-791f-4f7f-83d3-cbed1dbf8cea,2021-11-12,Mermelada de Maracuy·,Alimentos,5,59.86,299.3
+e3230970-8141-43b3-9a56-f7502bb6c5c7,2023-11-15,Bebida de Ch√≠a,Alimentos,3,97.84,293.52
+45a122c2-791f-4f7f-83d3-cbed1dbf8cea,2021-11-12,Mermelada de Maracuy√°,Alimentos,5,59.86,299.3
 acfabc41-5a8e-4510-84a3-7552d51e64a8,2023-09-07,Harina de Lenteja,Alimentos,15,2.93,43.95
 3d81d602-e23f-4890-abb1-44dab6d1332e,2021-02-12,Salsa Chimichurri,Alimentos,4,67.42,269.68
 ae8e9030-4627-4ea7-ac36-2c852922558a,2023-02-11,Chips de Garbanzo,Alimentos,16,89.71,1435.36
 7c5e0d0f-30dc-4eb6-9c09-7c79a587c9ae,2022-09-13,Hummus de Zanahoria,Alimentos,13,80.35,1044.55
 6ea869e8-7506-45fa-935b-bb7abc88cc28,2021-05-06,Galletas de Arroz Integral,Alimentos,18,29.72,534.96
-0386be6f-c6fd-4c1e-8322-6cace3a21cfe,2022-03-12,Aceite de C·rtamo,Alimentos,14,,1016.12
-765397a7-20c5-4bad-bb5a-88a66f6997d0,2022-02-03,Frijoles Mung Org·nicos,Alimentos,8,40.89,327.12
+0386be6f-c6fd-4c1e-8322-6cace3a21cfe,2022-03-12,Aceite de C√°rtamo,Alimentos,14,,1016.12
+765397a7-20c5-4bad-bb5a-88a66f6997d0,2022-02-03,Frijoles Mung Org√°nicos,Alimentos,8,40.89,327.12
 eef706f1-ce09-48b5-b2e6-728345849735,2021-09-03,Nueces Mixtas,Alimentos,16,65.18,1042.88
 0bff40b0-dbb0-42fe-b4bc-736bbe6f4ccc,2023-05-16,Ensalada de Kale,Alimentos,4,50.95,203.8
-091aecb2-643c-4916-a9fb-c47eb2ec8f1d,2020-01-20,Jugo de Pera Sin Az˙car,Alimentos,10,,914.4
+091aecb2-643c-4916-a9fb-c47eb2ec8f1d,2020-01-20,Jugo de Pera Sin Az√∫car,Alimentos,10,,914.4
 6e6fedbb-cf65-40d4-bd01-4ba0e943e6d2,2021-10-15,Mantequilla de Avellana,Alimentos,15,1.43,21.45
 5aeac98f-e4a5-4066-ab09-c7de4f13faf2,2024-02-26,Galletas de Miel,Alimentos,16,59.13,946.08
-73c37a8e-89e9-4d71-b18e-b6c94716b271,2022-07-20,Chocolate con CafÈ,Alimentos,16,68.44,1095.04
+73c37a8e-89e9-4d71-b18e-b6c94716b271,2022-07-20,Chocolate con Caf√©,Alimentos,16,68.44,1095.04
 4a2b5fd1-1603-4760-a989-103a92f6444c,2020-02-25,Bebida de Amaranto,Alimentos,1,85.95,85.95
 5d707160-8718-4ba8-8f92-bcedbeedab17,2023-07-23,Mermelada de Kiwi,Alimentos,7,26.17,183.19
 e97168bc-770b-42bd-9042-79df57c54393,2023-01-25,Harina de Guisante,Alimentos,,18.27,200.97
@@ -125,12 +125,12 @@ e97168bc-770b-42bd-9042-79df57c54393,2023-01-25,Harina de Guisante,Alimentos,,18
 3f53b250-0c16-4b04-b019-ff2c6d7fbca0,2021-07-23,Chips de Remolacha,Alimentos,7,99.11,693.77
 c0b3e0a9-43cb-4533-961a-dcf56ade11b0,2022-08-16,Guacamole con Lima,Alimentos,13,82.15,1067.95
 514a500c-6d36-4e97-9067-879def9eca75,2024-04-27,Galletas de Matcha,Alimentos,12,89.02,1068.24
-b5190f54-e821-4853-aa6f-4226b1391dd1,2022-01-25,Aceite de ManÌ,Alimentos,18,13.06,235.08
-861cd167-e0c3-429d-9acf-55fc024673b1,2020-04-11,Frijoles Azuki Org·nicos,Alimentos,4,57.22,228.88
-34e9b19c-f5ca-46ca-a33a-44ab0fb87176,2021-12-09,Semillas de ChÌa,Alimentos,16,62.39,998.24
-12b62f6f-9d4d-46ab-84a6-bb1fc47de8a2,2022-09-16,Ensalada de R˙cula,Alimentos,3,83.04,249.12
-ffcdec2b-7bc4-4261-b0cd-8acc29acf113,2020-12-24,Galletas de ChÌa,Alimentos,2,54.94,109.88
-2387a628-a49a-4bb6-b4ea-adaeafdfc795,2020-04-15,Jugo de Naranja Org·nico,Alimentos,14,75.88,1062.32
+b5190f54-e821-4853-aa6f-4226b1391dd1,2022-01-25,Aceite de Man√≠,Alimentos,18,13.06,235.08
+861cd167-e0c3-429d-9acf-55fc024673b1,2020-04-11,Frijoles Azuki Org√°nicos,Alimentos,4,57.22,228.88
+34e9b19c-f5ca-46ca-a33a-44ab0fb87176,2021-12-09,Semillas de Ch√≠a,Alimentos,16,62.39,998.24
+12b62f6f-9d4d-46ab-84a6-bb1fc47de8a2,2022-09-16,Ensalada de R√∫cula,Alimentos,3,83.04,249.12
+ffcdec2b-7bc4-4261-b0cd-8acc29acf113,2020-12-24,Galletas de Ch√≠a,Alimentos,2,54.94,109.88
+2387a628-a49a-4bb6-b4ea-adaeafdfc795,2020-04-15,Jugo de Naranja Org√°nico,Alimentos,14,75.88,1062.32
 bfbf776b-032e-45ac-87e1-27febf47b4a9,2021-01-18,Pan Integral con Semillas,Alimentos,18,27.07,487.26
 010f984b-44a2-49d7-851e-e730293261a7,2024-02-12,Yogur de Fresa,Alimentos,8,16.42,131.36
 0f8a88ea-9f3c-40ae-a8b8-2b0a4aff1da1,2020-06-12,Miel de Abeja Pura,Alimentos,7,,414.4
@@ -143,19 +143,19 @@ d8c64682-4b48-4acb-85c9-31fffe5aa6a7,2023-01-23,Arroz Integral,Alimentos,10,25.8
 f503b69d-69dc-45af-a291-4b1ef9b4e2c4,2023-12-05,Galletas de Avena,Alimentos,7,21.08,147.56
 358f67a0-c3e8-4d7e-9b08-cbfa24f8f638,2023-01-08,Barritas de Granola,Alimentos,16,,32.32
 7f209584-3fc8-4492-b52d-821eff4d017a,2020-05-20,Leche de Almendras,Alimentos,16,56.82,909.12
-9eef1d9d-b40e-42cf-829f-be65ec385ba0,2020-04-07,TÈ Verde Matcha,Alimentos,18,5.47,98.46
-5981855f-1f11-4ffa-beb1-a18b55f99b82,2022-02-16,Mermelada de Ar·ndanos,Alimentos,2,12.99,25.98
+9eef1d9d-b40e-42cf-829f-be65ec385ba0,2020-04-07,T√© Verde Matcha,Alimentos,18,5.47,98.46
+5981855f-1f11-4ffa-beb1-a18b55f99b82,2022-02-16,Mermelada de Ar√°ndanos,Alimentos,2,12.99,25.98
 82e6bb27-0a43-44ec-b2d4-4df454efc989,2021-01-09,Harina de Almendra,Alimentos,4,24.12,96.48
-c6824442-2f97-4c22-809d-ea2510fe96e5,2020-09-13,Sopas Instant·neas de Vegetales,Alimentos,3,,164.91
+c6824442-2f97-4c22-809d-ea2510fe96e5,2020-09-13,Sopas Instant√°neas de Vegetales,Alimentos,3,,164.91
 fd2d7f03-8961-4d8b-8521-a831517eb472,2022-12-15,Chips de Kale,Alimentos,2,28.92,57.84
 1b9c399c-66ca-4524-849a-e6725f5deaca,2022-01-07,Hummus de Garbanzo,Alimentos,13,36.21,470.73
 154d0e39-bb96-4de7-8ddd-f7490e716e64,2021-07-19,Galletas de Coco,Alimentos,19,43.19,820.61
 4dac33d7-d709-4db7-87c1-b00695aafa58,2021-10-09,Aceite de Oliva Virgen Extra,Alimentos,16,29.7,475.2
-011e881c-91fa-413a-9f21-0d6c0b679f8a,2021-03-31,Quinoa Org·nica,Alimentos,1,39.9,39.9
+011e881c-91fa-413a-9f21-0d6c0b679f8a,2021-03-31,Quinoa Org√°nica,Alimentos,1,39.9,39.9
 a3951c89-7bf6-466a-ac4a-09199c1d2a68,2020-07-10,Almendras Tostadas,Alimentos,4,75.12,300.48
 bdd8ee32-3d12-415a-abc8-7f49bac06a18,2021-08-27,Ensalada de Frutas,Alimentos,,14.61,43.83
-6352ef5b-2e96-4d22-bb0a-2b0f2f0e41d3,2021-10-09,Jugo de Manzana Sin Az˙car,Alimentos,15,70.7,1060.5
-f72377d7-1737-479c-aa67-d0be4200e1b8,2020-12-08,Mantequilla de ManÌ,Alimentos,16,,591.36
+6352ef5b-2e96-4d22-bb0a-2b0f2f0e41d3,2021-10-09,Jugo de Manzana Sin Az√∫car,Alimentos,15,70.7,1060.5
+f72377d7-1737-479c-aa67-d0be4200e1b8,2020-12-08,Mantequilla de Man√≠,Alimentos,16,,591.36
 7ad6d382-0bd5-4930-9daa-5494a93ac1d0,2024-03-08,Galletas de Jengibre,Alimentos,17,43.76,743.92
 5e3be0d9-47d5-4084-9b46-48e34decba7d,2020-03-02,Chocolate Negro,Alimentos,8,65.15,521.2
 7ee27998-3795-40fb-be4f-3e28b8d252bb,2022-06-18,Bebida de Avena,Alimentos,2,94.75,189.5
@@ -169,7 +169,7 @@ a1f7b3b2-7616-4474-8918-2ec5243c334b,2023-08-06,Guacamole Fresco,Alimentos,4,17.
 2ba0dfe0-2fc0-4a20-9cd7-43ce7f8260da,2020-06-14,Lentejas Rojas,Alimentos,16,4.71,75.36
 07cfb226-2ffa-4aaa-8d46-fb4f076f655b,2023-09-08,Nueces de Brasil,Alimentos,13,98.79,1284.27
 3ac47221-08a7-439c-bc5f-e3b190b82df3,2024-05-17,Ensalada de Quinua,Alimentos,7,6.24,43.68
-f1a9cdf8-75b8-49ab-94a2-add9bce1cd51,2023-10-25,Jugo de Uva Sin Az˙car,Alimentos,16,44.23,707.68
+f1a9cdf8-75b8-49ab-94a2-add9bce1cd51,2023-10-25,Jugo de Uva Sin Az√∫car,Alimentos,16,44.23,707.68
 02a0ad87-1b6c-4f20-8aca-35b01286bee1,2024-01-08,Mantequilla de Almendra,Alimentos,19,13.02,247.38
 79d9fd28-8b8b-4d3b-b3db-c729a1bbb313,2022-02-21,Galletas de Almendra,Alimentos,,10.47,125.64
 3616b427-44c3-492d-8f15-049c3eed5cb0,2020-12-04,Chocolate Blanco,Alimentos,8,14.29,114.32
@@ -177,221 +177,221 @@ f1a9cdf8-75b8-49ab-94a2-add9bce1cd51,2023-10-25,Jugo de Uva Sin Az˙car,Alimentos
 7d4baaa0-120d-403d-9bae-780c7445c19b,2022-11-12,Mermelada de Frambuesa,Alimentos,15,49.6,744
 ed049273-221e-4af1-b9e4-02859eef99b0,2022-03-30,Harina de Avena,Alimentos,,22.6,67.8
 6512740d-0ad2-44fd-ab6e-125cfb754d3d,2020-11-23,Salsa Barbacoa Vegana,Alimentos,11,94.8,1042.8
-b1458859-5472-433d-b17c-3ce95abc9981,2024-04-28,Chips de Pl·tano,Alimentos,2,41.05,82.1
+b1458859-5472-433d-b17c-3ce95abc9981,2024-04-28,Chips de Pl√°tano,Alimentos,2,41.05,82.1
 5a007a5d-fafa-402b-beae-3d9f38b82820,2023-02-28,Hummus de Remolacha,Alimentos,,13.77,96.39
 80f855bb-c333-4079-bebe-992977611364,2021-03-15,Galletas de Chocolate,Alimentos,1,2.82,2.82
 3e4a9016-9a79-4522-a1e7-e7c9da65abf7,2024-03-23,Aceite de Girasol,Alimentos,18,80.31,1445.58
-fe3e0975-cda6-407c-9e47-9d923bd47d93,2020-01-07,Garbanzos Org·nicos,Alimentos,5,71.33,356.65
+fe3e0975-cda6-407c-9e47-9d923bd47d93,2020-01-07,Garbanzos Org√°nicos,Alimentos,5,71.33,356.65
 bc696374-2f7d-40a8-8e96-fd7304b2f558,2021-02-01,Anacardos Tostados,Alimentos,14,60.94,853.16
 58b2d240-891d-474b-81d4-c4d44c6cb6ad,2021-10-19,Ensalada de Couscous,Alimentos,4,7.85,31.4
-3dc726da-bd4c-4499-8f92-9e621bff376c,2021-05-23,Jugo de PiÒa Sin Az˙car,Alimentos,9,90.52,814.68
+3dc726da-bd4c-4499-8f92-9e621bff376c,2021-05-23,Jugo de Pi√±a Sin Az√∫car,Alimentos,9,90.52,814.68
 838b8edd-cd1b-429b-bc3e-cc98964d0f6e,2023-10-10,Mantequilla de Cacahuate,Alimentos,6,25.06,150.36
 39770400-c925-42fe-b42e-c6a242ba1004,2023-07-15,Galletas de Canela,Alimentos,8,,185.6
 196d1c54-a4bb-4e15-b632-52f2983f0508,2022-10-18,Chocolate con Leche,Alimentos,11,26.93,296.23
 34295b2d-1689-4a5f-8fbb-c67dba6ae4a2,2024-03-29,Bebida de Soja,Alimentos,8,,199.44
 af0ece4c-a2c9-4bad-9a7a-af71943e1355,2024-01-23,Mermelada de Fresa,Alimentos,19,,97.28
 16a236d8-8e84-450c-bce7-ced24acbe41b,2023-10-15,Harina de Trigo Sarraceno,Alimentos,12,7.33,87.96
-b832aa45-cb09-482b-8e06-6460117b23ac,2023-05-09,TÈ Verde,Bebidas,5,19.99,99.95
+b832aa45-cb09-482b-8e06-6460117b23ac,2023-05-09,T√© Verde,Bebidas,5,19.99,99.95
 469bd30b-6a42-49ba-aff3-84bfdcb82b58,2021-06-29,Jugo de Naranja,Bebidas,6,54.05,324.3
-585c571b-ff4f-4f4a-a537-ae7297420adc,2021-12-15,CafÈ Americano,Bebidas,19,86.95,1652.05
+585c571b-ff4f-4f4a-a537-ae7297420adc,2021-12-15,Caf√© Americano,Bebidas,19,86.95,1652.05
 9f419021-c751-4610-8ab7-e038beba639c,2023-02-03,Limonada,Bebidas,13,74.06,962.78
 a650f335-d009-492a-b626-24faa7b986dc,2023-10-08,Batido de Fresa,Bebidas,2,64.1,128.2
 e96d3487-a5d6-43c1-9b48-892deb0d2719,2021-02-26,Agua de Coco,Bebidas,,96.25,1636.25
 d342f618-a3dd-432d-83f8-25edbe48de99,2023-08-23,Jugo de Manzana,Bebidas,3,6.34,19.02
-36d70a56-6585-44e2-838c-e3f304518fdb,2022-02-21,TÈ Negro,Bebidas,10,91.23,912.3
-0aa72112-8451-4a98-b47c-d041a2cebea0,2023-05-02,CafÈ Espresso,Bebidas,12,63.9,766.8
+36d70a56-6585-44e2-838c-e3f304518fdb,2022-02-21,T√© Negro,Bebidas,10,91.23,912.3
+0aa72112-8451-4a98-b47c-d041a2cebea0,2023-05-02,Caf√© Espresso,Bebidas,12,63.9,766.8
 1fabf59d-b76a-4ba7-9ceb-d9369be8bd88,2020-01-06,Agua Mineral,Bebidas,8,6.67,53.36
-158ba3b9-8392-472f-8e7c-ba9f782afcf5,2024-06-09,Batido de Pl·tano,Bebidas,12,6.45,77.4
+158ba3b9-8392-472f-8e7c-ba9f782afcf5,2024-06-09,Batido de Pl√°tano,Bebidas,12,6.45,77.4
 31bcd702-7e76-40fd-87e5-8c39cf44dcc5,2022-08-23,Jugo de Uva,Bebidas,15,74.38,1115.7
 434477a5-29a9-4263-9a29-71fac29aab04,2020-09-19,Chocolate Caliente,Bebidas,6,79.49,476.94
 adc8a455-5ac0-4706-80e2-cb5b8ee675c2,2024-04-23,Jugo de Zanahoria,Bebidas,4,20.34,81.36
 d330ed10-9398-4455-876f-7154b331eaf3,2021-02-12,Batido de Mango,Bebidas,17,51.27,871.59
 2215ece5-3531-46a9-921a-13e46dc4e7ff,2020-02-06,Agua con Gas,Bebidas,12,85.95,1031.4
-34a977b6-6689-472a-a030-bb8c4a46f8a4,2024-05-13,TÈ Verde,Bebidas,16,19.43,310.88
+34a977b6-6689-472a-a030-bb8c4a46f8a4,2024-05-13,T√© Verde,Bebidas,16,19.43,310.88
 d4df4288-9085-4ee0-8481-e65d41eb35a1,2023-02-20,Jugo de Naranja,Bebidas,,13.43,255.17
-3389d5bd-ee44-4943-bc8c-6e12b2bff9cb,2024-03-19,CafÈ Americano,Bebidas,9,9.16,82.44
+3389d5bd-ee44-4943-bc8c-6e12b2bff9cb,2024-03-19,Caf√© Americano,Bebidas,9,9.16,82.44
 db68f9e3-3718-4167-b889-924697f92f10,2020-10-29,Limonada,Bebidas,13,37.11,482.43
 79419867-6d11-4b35-9d9d-0b59e9acd133,2021-07-29,Batido de Fresa,Bebidas,6,30.63,183.78
 ff39393e-dc09-4bb0-949d-c46bbdcb2a45,2024-04-06,Agua de Coco,Bebidas,15,44.49,667.35
 379a8238-862c-45bb-918b-b70b197af23f,2020-09-06,Jugo de Manzana,Bebidas,15,,1313.25
-6e8a4bd5-038a-41dc-9cf8-908384c497e0,2020-09-29,TÈ Negro,Bebidas,3,14.08,42.24
-6d53eae4-1a13-4232-b515-5cfb91f8e73a,2020-07-20,CafÈ Espresso,Bebidas,11,,671
+6e8a4bd5-038a-41dc-9cf8-908384c497e0,2020-09-29,T√© Negro,Bebidas,3,14.08,42.24
+6d53eae4-1a13-4232-b515-5cfb91f8e73a,2020-07-20,Caf√© Espresso,Bebidas,11,,671
 83f03b44-17cd-4286-8174-bb4ea2affa74,2023-06-05,Agua Mineral,Bebidas,5,60.74,303.7
-1c859ff4-cafb-4002-8113-620c594d2ca9,2021-04-15,Batido de Pl·tano,Bebidas,8,96.7,773.6
+1c859ff4-cafb-4002-8113-620c594d2ca9,2021-04-15,Batido de Pl√°tano,Bebidas,8,96.7,773.6
 897dcb81-5f2c-44de-b757-6bd81210d3e3,2020-03-05,Jugo de Uva,Bebidas,10,,341.4
 4269de41-401d-40bc-b62b-35d801c3f84e,2021-09-10,Chocolate Caliente,Bebidas,19,8.37,159.03
 cda27f14-ed59-468c-8255-c54f1db19faa,2021-11-06,Jugo de Zanahoria,Bebidas,19,81.41,1546.79
 9223a869-b1c5-4c04-8465-e9ed9acd5f5b,2021-04-17,Batido de Mango,Bebidas,12,32.4,388.8
 69a3e931-4ed3-4d4e-b1ea-5182ee0175e7,2020-08-23,Agua con Gas,Bebidas,7,38.12,266.84
-27064c0e-a1c9-4619-a112-e957c4757738,2020-04-14,TÈ Verde,Bebidas,13,45.8,595.4
+27064c0e-a1c9-4619-a112-e957c4757738,2020-04-14,T√© Verde,Bebidas,13,45.8,595.4
 2f5f5159-4dde-4762-987e-dd1fecc40948,2022-02-17,Jugo de Naranja,Bebidas,5,,464.95
-513ef5f6-e922-4b55-8daa-4d84a1b9fa49,2023-01-27,CafÈ Americano,Bebidas,,81.05,81.05
+513ef5f6-e922-4b55-8daa-4d84a1b9fa49,2023-01-27,Caf√© Americano,Bebidas,,81.05,81.05
 1d6c8203-a740-4c44-8b38-58ae86d4d037,2022-08-24,Limonada,Bebidas,18,73.66,1325.88
 879c6c06-fc37-447c-b5a4-0e90f85f2714,2021-11-09,Batido de Fresa,Bebidas,17,83.43,1418.31
 4dea63f6-c7e8-466f-95d7-b9e6f4e4e475,2022-09-22,Agua de Coco,Bebidas,9,68.38,615.42
 9ab4937d-768c-4412-a40e-f5cb1fb1b06b,2022-11-23,Jugo de Manzana,Bebidas,8,72.65,581.2
-cc0121cd-4e44-4dbe-95a2-96d0fdbe110d,2023-10-24,TÈ Negro,Bebidas,15,7.74,116.1
-89031a49-e965-43c1-9ba1-5b8fecbf3a22,2024-01-20,CafÈ Espresso,Bebidas,16,36.91,590.56
+cc0121cd-4e44-4dbe-95a2-96d0fdbe110d,2023-10-24,T√© Negro,Bebidas,15,7.74,116.1
+89031a49-e965-43c1-9ba1-5b8fecbf3a22,2024-01-20,Caf√© Espresso,Bebidas,16,36.91,590.56
 06f90525-3d15-4e0b-973f-cf7251ce6925,2023-02-16,Agua Mineral,Bebidas,14,53.26,745.64
-6daaee7a-891e-438b-a572-35dbb92a467c,2020-01-23,Batido de Pl·tano,Bebidas,4,38.02,152.08
+6daaee7a-891e-438b-a572-35dbb92a467c,2020-01-23,Batido de Pl√°tano,Bebidas,4,38.02,152.08
 45d0abbd-ee00-45e0-80e3-2bc96edace94,2023-06-20,Jugo de Uva,Bebidas,5,45.29,226.45
 462da80f-9bd1-40b0-8dba-15c29cb27b60,2020-12-21,Chocolate Caliente,Bebidas,,66.98,200.94
 bf3a9908-8a34-49be-8ec8-9dc02d02cae0,2021-02-27,Jugo de Zanahoria,Bebidas,18,68.36,1230.48
 3d05a062-4eb6-465a-94e4-8f2c6fad1db8,2020-07-21,Batido de Mango,Bebidas,2,67.66,135.32
 a03f4448-9b1c-4fc5-9c49-482b049d8286,2022-10-17,Agua con Gas,Bebidas,19,1.53,29.07
-42f6a9fb-2fc7-4e08-acf9-569b3f1ddcca,2024-05-20,TÈ Verde,Bebidas,19,56.47,1072.93
+42f6a9fb-2fc7-4e08-acf9-569b3f1ddcca,2024-05-20,T√© Verde,Bebidas,19,56.47,1072.93
 c4c410b4-71d2-40b6-924f-7d75a043bcbc,2021-10-30,Jugo de Naranja,Bebidas,15,43.26,648.9
-d7e39fd1-d146-4c2a-9bee-54a12770d66c,2020-07-26,CafÈ Americano,Bebidas,15,99.78,1496.7
+d7e39fd1-d146-4c2a-9bee-54a12770d66c,2020-07-26,Caf√© Americano,Bebidas,15,99.78,1496.7
 a0532cd9-716b-47ad-86fe-9fd97e754e84,2021-07-12,Limonada,Bebidas,19,56.55,1074.45
 07cfc86f-757e-41bb-ab5f-ffa027178f1e,2024-01-08,Batido de Fresa,Bebidas,15,,427.8
 489667a4-f437-4274-9e01-6b0d042785f3,2023-10-15,Agua de Coco,Bebidas,15,,1036.5
 db9d426c-0012-41b3-be3c-eb6119c38d3f,2024-02-22,Jugo de Manzana,Bebidas,,43.21,345.68
-f3050735-be02-4d42-bf78-c5506c6dd903,2021-11-26,TÈ Negro,Bebidas,19,5.85,111.15
-c368edf1-eee6-4243-9f0a-dad8a2a4a988,2021-02-05,CafÈ Espresso,Bebidas,10,2.67,26.7
+f3050735-be02-4d42-bf78-c5506c6dd903,2021-11-26,T√© Negro,Bebidas,19,5.85,111.15
+c368edf1-eee6-4243-9f0a-dad8a2a4a988,2021-02-05,Caf√© Espresso,Bebidas,10,2.67,26.7
 6aba51df-548d-4064-9e11-14284c95592d,2021-11-01,Agua Mineral,Bebidas,16,56.38,902.08
-d888b0a9-a47f-40fb-af6a-f8e079c1b7e9,2020-06-11,Batido de Pl·tano,Bebidas,,41.58,582.12
+d888b0a9-a47f-40fb-af6a-f8e079c1b7e9,2020-06-11,Batido de Pl√°tano,Bebidas,,41.58,582.12
 478baafc-648c-4417-be8f-380cb28e0bcb,2021-11-10,Jugo de Uva,Bebidas,16,69.04,1104.64
 29afb726-adc9-4e0c-ac9d-cbfadb2e7074,2022-06-15,Chocolate Caliente,Bebidas,11,51.3,564.3
 3eee95e0-c4f0-4cae-b232-2d2cca0db732,2020-04-12,Jugo de Zanahoria,Bebidas,16,77.25,1236
 ee771b97-5ff9-4a79-8e06-b9d8526a91b4,2024-03-09,Batido de Mango,Bebidas,17,4.68,79.56
 194815fd-31e9-4d8a-93fd-1f814f3b70a9,2022-07-25,Agua con Gas,Bebidas,4,49.63,198.52
-ecba4b90-bc6b-40c8-9026-6f480652515c,2022-10-14,TÈ Verde,Bebidas,6,6.21,37.26
+ecba4b90-bc6b-40c8-9026-6f480652515c,2022-10-14,T√© Verde,Bebidas,6,6.21,37.26
 02095649-31f0-4e80-9f58-d36ce52286bd,2022-11-25,Jugo de Naranja,Bebidas,4,,208.52
-0f6e63c9-c279-4562-a857-dd9551f09a14,2021-03-08,CafÈ Americano,Bebidas,13,79.45,1032.85
+0f6e63c9-c279-4562-a857-dd9551f09a14,2021-03-08,Caf√© Americano,Bebidas,13,79.45,1032.85
 33d68885-2b40-4033-a4c3-e72c0bf3db74,2022-05-06,Limonada,Bebidas,13,4.65,60.45
 913ce398-02bd-4e57-815b-a943c8835d01,2023-09-25,Batido de Fresa,Bebidas,,90.56,271.68
 047ae627-5d1c-468b-92f9-3e57401169e2,2023-05-23,Agua de Coco,Bebidas,8,64.9,519.2
 75a1572b-a172-4bc9-895f-413b80f26b93,2021-04-15,Jugo de Manzana,Bebidas,4,58.5,234
-7485c7c0-a711-412b-8199-aed306e3f582,2021-03-24,TÈ Negro,Bebidas,4,,49.48
-d3d23dcf-65dd-4514-9825-e15100a15cca,2020-01-13,CafÈ Espresso,Bebidas,15,29.09,436.35
+7485c7c0-a711-412b-8199-aed306e3f582,2021-03-24,T√© Negro,Bebidas,4,,49.48
+d3d23dcf-65dd-4514-9825-e15100a15cca,2020-01-13,Caf√© Espresso,Bebidas,15,29.09,436.35
 e577533b-b6ff-4fcc-a17d-fe35d1848761,2021-01-11,Agua Mineral,Bebidas,3,60.29,180.87
-d716848a-8e5b-4d21-9245-d97558296097,2021-05-15,Batido de Pl·tano,Bebidas,6,27.34,164.04
+d716848a-8e5b-4d21-9245-d97558296097,2021-05-15,Batido de Pl√°tano,Bebidas,6,27.34,164.04
 791751b9-370c-42a5-8587-a8db4ecb7293,2023-02-21,Jugo de Uva,Bebidas,3,36.95,110.85
 9d81d335-0ed5-40b6-ad9e-1e6fdb1ac766,2022-01-25,Chocolate Caliente,Bebidas,3,5.61,16.83
 51ea127f-c0b3-472a-820f-f5e5c22dcbee,2023-07-13,Jugo de Zanahoria,Bebidas,,39.27,157.08
 bfe32656-15ed-444a-8a1f-d77b1629fc67,2021-09-12,Batido de Mango,Bebidas,4,69.55,278.2
 423df2ec-cc78-4611-a74d-94d9063bc3e8,2021-05-31,Agua con Gas,Bebidas,10,97.53,975.3
-ef565909-e718-4cab-8c8d-d1bc51108dc1,2020-05-10,TÈ Verde,Bebidas,,95.81,574.86
+ef565909-e718-4cab-8c8d-d1bc51108dc1,2020-05-10,T√© Verde,Bebidas,,95.81,574.86
 5ff1a1b5-a385-434b-9ea8-9e336fe4d153,2022-10-25,Jugo de Naranja,Bebidas,14,68.34,956.76
-27f64089-382d-40fb-beed-66a47f6f8b88,2024-01-09,CafÈ Americano,Bebidas,17,49.75,845.75
+27f64089-382d-40fb-beed-66a47f6f8b88,2024-01-09,Caf√© Americano,Bebidas,17,49.75,845.75
 1555c030-dc00-4698-9796-f6651cfc9ea1,2021-01-18,Limonada,Bebidas,1,26.09,26.09
 715a644c-3a5f-4714-bedd-c4b60a93fb7b,2023-11-14,Batido de Fresa,Bebidas,15,93.86,1407.9
 ca17f3e8-d17f-4c2a-b000-8f74726f3be0,2020-12-18,Agua de Coco,Bebidas,10,72.33,723.3
 b97d7727-d940-4960-80e8-e8beb29ed259,2021-12-13,Jugo de Manzana,Bebidas,4,57.42,229.68
-10c09758-bf8a-4d3c-b4bd-50c3075b45b4,2024-02-09,TÈ Negro,Bebidas,15,35.87,538.05
-aa903c24-6bc6-46c3-89a5-0153daf92ee2,2021-02-08,CafÈ Espresso,Bebidas,10,86.13,861.3
+10c09758-bf8a-4d3c-b4bd-50c3075b45b4,2024-02-09,T√© Negro,Bebidas,15,35.87,538.05
+aa903c24-6bc6-46c3-89a5-0153daf92ee2,2021-02-08,Caf√© Espresso,Bebidas,10,86.13,861.3
 45396af6-5108-4a7a-bfb2-513c4dd35e13,2021-06-09,Agua Mineral,Bebidas,8,49.99,399.92
-763b6d28-54ef-43b8-91db-3a39af9e70b5,2022-10-25,Batido de Pl·tano,Bebidas,3,66.02,198.06
+763b6d28-54ef-43b8-91db-3a39af9e70b5,2022-10-25,Batido de Pl√°tano,Bebidas,3,66.02,198.06
 ea8acfbe-794b-455f-ba31-8117b21733c5,2022-02-27,Jugo de Uva,Bebidas,19,56.15,1066.85
 7dc600ed-d7d0-4246-9107-8ae407bd4d10,2024-03-05,Chocolate Caliente,Bebidas,6,19.57,117.42
 93ced67a-fc23-41cf-b1c1-667fd8730e8f,2022-07-21,Jugo de Zanahoria,Bebidas,2,,45.1
 a2bf608b-cab6-428c-8dfe-8770e7df2cce,2020-08-12,Batido de Mango,Bebidas,3,27.52,82.56
 ba4245f3-a403-41a0-b5d1-3aaf5fb38bf9,2020-10-19,Agua con Gas,Bebidas,9,92.69,834.21
-ded9e741-c105-45e0-9f17-6c4bc9a763fd,2022-02-15,TÈ Verde,Bebidas,4,,175.56
+ded9e741-c105-45e0-9f17-6c4bc9a763fd,2022-02-15,T√© Verde,Bebidas,4,,175.56
 d64c5393-9411-4e04-9499-b72dfb2c7ac4,2020-01-12,Jugo de Naranja,Bebidas,2,30.68,61.36
-b7052a50-cc8d-47a0-9b3d-6bc209213270,2020-06-09,CafÈ Americano,Bebidas,11,16.31,179.41
+b7052a50-cc8d-47a0-9b3d-6bc209213270,2020-06-09,Caf√© Americano,Bebidas,11,16.31,179.41
 e26c8f03-342c-4a64-897b-290b40c96ba5,2021-02-13,Limonada,Bebidas,12,79.94,959.28
 4bef2e44-3313-4211-9df0-8ea8937d9524,2020-01-20,Batido de Fresa,Bebidas,8,67.22,537.76
 d96cefea-c3eb-428e-89ae-e9a73b45e0fe,2023-09-19,Agua de Coco,Bebidas,12,,1179.24
 119f6579-3b39-409a-9d5f-61ca380dea72,2022-07-17,Jugo de Manzana,Bebidas,6,52.45,314.7
-7fad8b09-a64f-4f6b-82b0-6923d3d8eb90,2024-05-14,TÈ Negro,Bebidas,1,46.58,46.58
-6145f9d8-56b4-47f3-a48e-edcaa198811b,2024-05-16,CafÈ Espresso,Bebidas,10,31.74,317.4
+7fad8b09-a64f-4f6b-82b0-6923d3d8eb90,2024-05-14,T√© Negro,Bebidas,1,46.58,46.58
+6145f9d8-56b4-47f3-a48e-edcaa198811b,2024-05-16,Caf√© Espresso,Bebidas,10,31.74,317.4
 c124fa02-8226-454e-b1dd-9e1471b23c79,2021-09-15,Agua Mineral,Bebidas,15,36.54,548.1
-96ab302f-7226-4aff-977c-90fde1b8bcf9,2021-08-25,Batido de Pl·tano,Bebidas,7,,522.41
+96ab302f-7226-4aff-977c-90fde1b8bcf9,2021-08-25,Batido de Pl√°tano,Bebidas,7,,522.41
 a6c8715c-0372-4e7e-a558-5a82c6f137b2,2020-11-14,Jugo de Uva,Bebidas,15,74.2,1113
 2d469a71-dbf2-4f5d-96c5-c5519d3c718b,2021-01-21,Chocolate Caliente,Bebidas,11,2.12,23.32
 c0dfd5ef-7ba1-429c-8295-f95f85f9dc7d,2020-01-12,Jugo de Zanahoria,Bebidas,7,28.82,201.74
 eb61fa73-216f-4528-bb95-e9bed562c4de,2024-02-28,Batido de Mango,Bebidas,19,,549.86
 e3831e07-92da-4e2f-8074-7ee6d3f23217,2021-06-20,Agua con Gas,Bebidas,,28.44,284.4
-31f93efc-5bd3-41c5-9b72-48693dca8af6,2023-03-18,TÈ Verde,Bebidas,15,70.9,1063.5
+31f93efc-5bd3-41c5-9b72-48693dca8af6,2023-03-18,T√© Verde,Bebidas,15,70.9,1063.5
 be4d22b8-bc3c-4ef3-9faf-62ca04e67b21,2022-09-01,Jugo de Naranja,Bebidas,7,89.24,624.68
-b62f5ecb-febb-4d11-9c7e-5c6dfe972188,2020-09-12,CafÈ Americano,Bebidas,15,32.69,490.35
+b62f5ecb-febb-4d11-9c7e-5c6dfe972188,2020-09-12,Caf√© Americano,Bebidas,15,32.69,490.35
 ae5356ae-4c81-4132-aac5-7a094998497a,2021-11-13,Limonada,Bebidas,13,8.22,106.86
 af5c753f-dbf3-43fc-9b28-24fe0547eced,2021-05-23,Batido de Fresa,Bebidas,3,59.12,177.36
 d5ca91d7-5d30-4095-b47c-dc70ef1984e3,2021-09-01,Agua de Coco,Bebidas,11,16.08,176.88
 359d460a-ef0d-4d1f-a275-8e66113b90a9,2023-08-16,Jugo de Manzana,Bebidas,11,11.48,126.28
-7d716d75-3725-41a0-81c9-8eac1649b77e,2022-11-01,TÈ Negro,Bebidas,15,94.11,1411.65
-4b50f7bb-aca2-4bde-b8a6-e83e6e5757a2,2022-03-29,CafÈ Espresso,Bebidas,9,48.28,434.52
+7d716d75-3725-41a0-81c9-8eac1649b77e,2022-11-01,T√© Negro,Bebidas,15,94.11,1411.65
+4b50f7bb-aca2-4bde-b8a6-e83e6e5757a2,2022-03-29,Caf√© Espresso,Bebidas,9,48.28,434.52
 9df9b1fa-1406-4756-aa69-042f07c56e6c,2022-12-11,Agua Mineral,Bebidas,1,25.32,25.32
-2519257f-6a11-4285-bb88-18f0270db91a,2023-02-15,Batido de Pl·tano,Bebidas,,,159.63
+2519257f-6a11-4285-bb88-18f0270db91a,2023-02-15,Batido de Pl√°tano,Bebidas,,,159.63
 d1d469ce-e209-4407-b73a-f748cf1d4972,2021-10-06,Jugo de Uva,Bebidas,12,76.48,917.76
 4fd93e17-d986-4ee6-803b-8107f4360f66,2021-10-07,Chocolate Caliente,Bebidas,11,85.57,941.27
 e30015b8-62a7-4f82-83e1-1fa11db86bc0,2022-02-18,Jugo de Zanahoria,Bebidas,7,42.42,296.94
 08ff37fc-c422-4e18-8cbe-fcb4ed2f1c1b,2021-02-06,Batido de Mango,Bebidas,16,30.95,495.2
 894ec97a-06a7-4a70-9f72-2ea10a5bb5f9,2020-06-06,Agua con Gas,Bebidas,15,31.61,474.15
-12fe6661-b160-4575-876b-b56e11ec927b,2020-08-19,TÈ Verde,Bebidas,,10.04,40.16
+12fe6661-b160-4575-876b-b56e11ec927b,2020-08-19,T√© Verde,Bebidas,,10.04,40.16
 3921acd9-0184-4ba2-a42f-9cc75b33dcf9,2021-05-27,Jugo de Naranja,Bebidas,6,63.55,381.3
-22919905-0a91-4511-879e-e72117b1090b,2023-11-20,CafÈ Americano,Bebidas,9,90.94,818.46
+22919905-0a91-4511-879e-e72117b1090b,2023-11-20,Caf√© Americano,Bebidas,9,90.94,818.46
 f4d1b8e3-1f39-426f-999d-0f2d7799101f,2020-07-07,Limonada,Bebidas,19,38.24,726.56
 337de40f-9aee-4098-b72d-c53c80449a9f,2021-05-01,Batido de Fresa,Bebidas,,77.85,467.1
 6cfc5bc8-ea9b-4dd5-8449-48af83f08d33,2022-02-20,Agua de Coco,Bebidas,9,11.7,105.3
 1e0bfb23-c03e-4d57-887e-e5169cfb0390,2020-01-28,Jugo de Manzana,Bebidas,15,67,1005
-b8593eac-926b-4416-b605-ead4c170203c,2022-04-22,TÈ Negro,Bebidas,,84.85,169.7
-9ce3f1f7-b087-4767-a1a4-cb1997044917,2020-08-12,CafÈ Espresso,Bebidas,19,,522.31
-fcf238f4-3629-458e-a174-13f9e5a57191,2023-07-21,TÈ Verde,Bebidas,10,86.62,866.2
+b8593eac-926b-4416-b605-ead4c170203c,2022-04-22,T√© Negro,Bebidas,,84.85,169.7
+9ce3f1f7-b087-4767-a1a4-cb1997044917,2020-08-12,Caf√© Espresso,Bebidas,19,,522.31
+fcf238f4-3629-458e-a174-13f9e5a57191,2023-07-21,T√© Verde,Bebidas,10,86.62,866.2
 0c6c2d32-2d02-421c-839e-5f71eb225124,2024-06-14,Jugo de Naranja,Bebidas,12,,750.6
-50ec5057-87c6-41e2-880d-1abf8cdd3a12,2021-01-29,CafÈ Americano,Bebidas,15,61.4,921
+50ec5057-87c6-41e2-880d-1abf8cdd3a12,2021-01-29,Caf√© Americano,Bebidas,15,61.4,921
 099c019b-0812-4647-8149-f60d70cd7298,2020-01-28,Limonada,Bebidas,14,3.31,46.34
 aaf50818-b62c-4a12-a0c1-1a4c9d33a988,2021-10-29,Batido de Fresa,Bebidas,13,89.27,1160.51
 e4848c27-6eb5-457e-9e74-902d3e1a6d9e,2021-03-02,Agua de Coco,Bebidas,,50.26,552.86
 ca23be65-16db-4f89-86c9-785df61889c5,2020-11-14,Jugo de Manzana,Bebidas,2,65.21,130.42
-c8e89a10-0ae3-4cd1-8780-623da5526db2,2020-07-03,TÈ Negro,Bebidas,10,40.75,407.5
-91067c2d-e413-44fa-a5f4-dc380cbe0ed8,2020-11-08,CafÈ Espresso,Bebidas,1,23.14,23.14
+c8e89a10-0ae3-4cd1-8780-623da5526db2,2020-07-03,T√© Negro,Bebidas,10,40.75,407.5
+91067c2d-e413-44fa-a5f4-dc380cbe0ed8,2020-11-08,Caf√© Espresso,Bebidas,1,23.14,23.14
 e96fbe56-3c79-4868-aba3-fd8c0111c891,2021-10-21,Agua Mineral,Bebidas,15,36.64,549.6
-1112bc4d-5c52-4589-96f4-e2a638d2752d,2020-07-28,TÈ Verde,Bebidas,1,86.63,86.63
+1112bc4d-5c52-4589-96f4-e2a638d2752d,2020-07-28,T√© Verde,Bebidas,1,86.63,86.63
 b9945efb-73f0-4afb-b849-0c9b7f61422e,2023-06-21,Jugo de Naranja,Bebidas,2,73.57,147.14
-b125f94a-2754-4ced-895e-7430d8210112,2022-06-30,CafÈ Americano,Bebidas,,16.58,49.74
+b125f94a-2754-4ced-895e-7430d8210112,2022-06-30,Caf√© Americano,Bebidas,,16.58,49.74
 9f083da8-a615-4af1-9e84-d7fbd094e4f0,2023-01-24,Limonada,Bebidas,12,88.76,1065.12
 8b3bf962-0b75-4a0d-a981-0b1d103e1994,2023-10-20,Batido de Fresa,Bebidas,15,49.34,740.1
 ac6f2248-cced-47dd-9461-ad67f1859317,2022-10-27,Agua de Coco,Bebidas,11,34.85,383.35
 2329766d-5d88-459f-be53-0f7280912fa8,2020-08-23,Jugo de Manzana,Bebidas,4,15.72,62.88
-dd0b7957-ec89-4a7f-bcdb-ba1a0f02a1a2,2021-02-09,TÈ Negro,Bebidas,5,79.99,399.95
-50ad73c5-173b-4583-ab73-0e6ab75c3add,2022-01-05,CafÈ Espresso,Bebidas,3,59.55,178.65
+dd0b7957-ec89-4a7f-bcdb-ba1a0f02a1a2,2021-02-09,T√© Negro,Bebidas,5,79.99,399.95
+50ad73c5-173b-4583-ab73-0e6ab75c3add,2022-01-05,Caf√© Espresso,Bebidas,3,59.55,178.65
 fa5c7ffc-7d2d-4ad2-b913-57bfe6adda4b,2022-06-23,Agua Mineral,Bebidas,18,1.12,20.16
-3d426010-0462-4e30-8097-6064e1827e4d,2021-02-17,Batido de Pl·tano,Bebidas,,50.75,558.25
+3d426010-0462-4e30-8097-6064e1827e4d,2021-02-17,Batido de Pl√°tano,Bebidas,,50.75,558.25
 71124eeb-0c0f-4a5b-a0c9-7a3bc87c381e,2022-02-09,Jugo de Uva,Bebidas,6,87.31,523.86
 38965a07-5c45-4186-bb75-c5327c137d77,2021-03-08,Chocolate Caliente,Bebidas,17,35.48,603.16
-d23a8fde-7355-4b9c-aa2d-041085e0fe60,2023-06-22,TÈ Verde,Bebidas,14,47.77,668.78
+d23a8fde-7355-4b9c-aa2d-041085e0fe60,2023-06-22,T√© Verde,Bebidas,14,47.77,668.78
 9d171c3e-6c52-4b61-87c1-374d5aadf0ac,2020-01-24,Jugo de Naranja,Bebidas,12,82.81,993.72
-6330ca8e-f537-40c3-9479-a8becad1e968,2022-03-30,CafÈ Americano,Bebidas,10,9.9,99
+6330ca8e-f537-40c3-9479-a8becad1e968,2022-03-30,Caf√© Americano,Bebidas,10,9.9,99
 e13d4d17-0003-41e0-ae3c-a3f4f6605cf9,2022-09-08,Limonada,Bebidas,7,89.71,627.97
 a2936904-d2bc-4440-99e1-58b30fcfe1de,2023-05-29,Batido de Fresa,Bebidas,19,34.1,647.9
 9c4e3423-b4bf-4a09-9667-aa29a768db33,2021-11-18,Agua de Coco,Bebidas,3,19.9,59.7
 93ef525a-5462-4911-9520-d90e8a5eca31,2020-08-16,Jugo de Manzana,Bebidas,18,62.57,1126.26
-8b0487a3-6e24-4f2c-b704-628ae4b5e885,2020-06-11,TÈ Negro,Bebidas,4,,210.36
-5ec553c6-5c0c-458f-8cbf-1a5f1a943426,2022-06-24,CafÈ Espresso,Bebidas,3,22.85,68.55
+8b0487a3-6e24-4f2c-b704-628ae4b5e885,2020-06-11,T√© Negro,Bebidas,4,,210.36
+5ec553c6-5c0c-458f-8cbf-1a5f1a943426,2022-06-24,Caf√© Espresso,Bebidas,3,22.85,68.55
 f9b619fc-f362-464a-b9b1-97b5c7950747,2021-06-16,Agua Mineral,Bebidas,3,64.68,194.04
-b58188b0-051b-44c9-82a8-385819517324,2022-10-30,Batido de Pl·tano,Bebidas,7,64.54,451.78
-673b6049-141e-4915-b465-2840f23a9da2,2023-12-02,TÈ Verde,Bebidas,10,12.9,129
+b58188b0-051b-44c9-82a8-385819517324,2022-10-30,Batido de Pl√°tano,Bebidas,7,64.54,451.78
+673b6049-141e-4915-b465-2840f23a9da2,2023-12-02,T√© Verde,Bebidas,10,12.9,129
 fb6a50a2-91ff-4179-89be-8d3ae3679e9c,2023-10-30,Jugo de Naranja,Bebidas,17,42.73,726.41
-3357872d-d39b-4645-b2e7-8ee1de0ba78d,2020-07-10,CafÈ Americano,Bebidas,,91.73,183.46
+3357872d-d39b-4645-b2e7-8ee1de0ba78d,2020-07-10,Caf√© Americano,Bebidas,,91.73,183.46
 ee99e458-d3e7-4995-b573-f5b1fd47a39a,2020-07-25,Limonada,Bebidas,18,,1214.82
 3c4af353-9923-4f85-b747-ee0ca8c9cee7,2023-02-13,Batido de Fresa,Bebidas,,88.38,972.18
 1d35dd7d-d845-45dc-b8ea-e6d4cb092943,2023-07-05,Agua de Coco,Bebidas,19,49.88,947.72
 b4439ebe-1019-4a24-93ce-5707ef4df95a,2021-09-11,Jugo de Manzana,Bebidas,4,33.91,135.64
-3f1337d0-4812-4617-bf20-142037911c0d,2020-09-14,TÈ Negro,Bebidas,13,33.94,441.22
-795a7f1e-4a01-4d64-b7c7-280f76955371,2021-09-15,CafÈ Espresso,Bebidas,1,69.29,69.29
+3f1337d0-4812-4617-bf20-142037911c0d,2020-09-14,T√© Negro,Bebidas,13,33.94,441.22
+795a7f1e-4a01-4d64-b7c7-280f76955371,2021-09-15,Caf√© Espresso,Bebidas,1,69.29,69.29
 b2123dd2-6fef-49c9-a820-7f77f1b30cea,2020-09-25,Agua Mineral,Bebidas,3,48.36,145.08
-5a4c6267-4565-4820-9795-5229eb2000d8,2021-08-08,Batido de Pl·tano,Bebidas,5,45.73,228.65
+5a4c6267-4565-4820-9795-5229eb2000d8,2021-08-08,Batido de Pl√°tano,Bebidas,5,45.73,228.65
 74199dde-6d38-4fe5-a441-67c447972641,2023-10-22,Jugo de Uva,Bebidas,18,12.67,228.06
 cd3d7770-70ed-48dd-a09f-25d3c6def0fd,2020-06-15,Chocolate Caliente,Bebidas,3,17.78,53.34
 39bac45a-b10f-471e-9854-0147e18a2206,2023-05-09,Jugo de Zanahoria,Bebidas,10,,105.9
 c363c71c-9d66-4c7d-93e7-eeeb4d3d7b5e,2022-03-16,Batido de Mango,Bebidas,15,23.51,352.65
-48a0cf66-dbdb-47a5-9360-afd84534b719,2022-03-13,TÈ Verde,Bebidas,10,,162.8
+48a0cf66-dbdb-47a5-9360-afd84534b719,2022-03-13,T√© Verde,Bebidas,10,,162.8
 3559857d-dd40-4d1d-bbd4-29c1fa6aaf89,2021-11-28,Jugo de Naranja,Bebidas,10,79.42,794.2
-a8125bd0-706d-44df-975a-d0310f2a6c17,2022-09-03,CafÈ Americano,Bebidas,11,44.99,494.89
+a8125bd0-706d-44df-975a-d0310f2a6c17,2022-09-03,Caf√© Americano,Bebidas,11,44.99,494.89
 e9e4073f-b98a-4d03-8a42-69cafc017ea2,2022-05-26,Limonada,Bebidas,19,73.37,1394.03
-03b9cd86-d303-46c6-8d05-21d92da41e4c,2023-02-20,TÈ Verde,Bebidas,14,37.33,522.62
+03b9cd86-d303-46c6-8d05-21d92da41e4c,2023-02-20,T√© Verde,Bebidas,14,37.33,522.62
 4ebfd0f1-5d95-4f4b-bc74-28391f16bcf9,2021-05-10,Jugo de Naranja,Bebidas,6,98.21,589.26
-f48b9cdb-397e-4a83-8cb7-821f83c92d51,2022-04-30,CafÈ Americano,Bebidas,10,92.79,927.9
+f48b9cdb-397e-4a83-8cb7-821f83c92d51,2022-04-30,Caf√© Americano,Bebidas,10,92.79,927.9
 e5fe6972-adf5-4931-88cc-bef7d7f98fc5,2023-08-18,Limonada,Bebidas,16,,32.64
 85934a49-5a8a-42bc-9e90-daa266fc9b97,2022-08-15,Batido de Fresa,Bebidas,1,93.63,93.63
 7218d1ff-17ac-4b06-b3bc-9f04c059805b,2022-12-01,Agua de Coco,Bebidas,16,85.84,1373.44
 afcde291-2810-433c-9d6b-2509476e064b,2023-12-17,Jugo de Manzana,Bebidas,5,19.74,98.7
-2e85b6c9-8fd3-4593-a76b-1b60fd936e8b,2020-12-24,TÈ Negro,Bebidas,2,50.59,101.18
-a26cc4df-047f-48ed-b94e-b45d67ff2ed3,2020-03-21,CafÈ Espresso,Bebidas,3,74.76,224.28
+2e85b6c9-8fd3-4593-a76b-1b60fd936e8b,2020-12-24,T√© Negro,Bebidas,2,50.59,101.18
+a26cc4df-047f-48ed-b94e-b45d67ff2ed3,2020-03-21,Caf√© Espresso,Bebidas,3,74.76,224.28
 b388505b-f175-4350-abac-633c3f902054,2024-06-07,Agua Mineral,Bebidas,10,75.27,752.7
-00ab3e6a-4c04-4e25-bda0-d8622c05ba25,2023-08-31,Batido de Pl·tano,Bebidas,10,1.99,19.9
+00ab3e6a-4c04-4e25-bda0-d8622c05ba25,2023-08-31,Batido de Pl√°tano,Bebidas,10,1.99,19.9
 a6af8637-e5df-41a2-b163-341efc909ad3,2022-11-06,Jugo de Uva,Bebidas,11,96.27,1058.97
 d41f1fe6-48ba-46cf-b988-0a5c1c3c1725,2024-02-08,Chocolate Caliente,Bebidas,2,,160.58
 d40d15e2-8902-452c-a383-f5a3a5eaab96,2021-06-26,Jugo de Zanahoria,Bebidas,13,51.51,669.63
@@ -401,199 +401,199 @@ d40d15e2-8902-452c-a383-f5a3a5eaab96,2021-06-26,Jugo de Zanahoria,Bebidas,13,51.
 9a49bb15-3a87-44c4-b92a-a43777b1d7c2,2020-09-03,Agua con Gas,Bebidas,,25.45,279.95
 81fc0868-e8fb-4e7c-98cf-28c3e694784f,2024-05-09,Batido de Mango,Bebidas,,25.49,127.45
 88f2ad76-3cf1-4d67-a572-ed8f2d7f5def,2021-07-10,Agua con Gas,Bebidas,8,24,192
-8da46ac2-4032-41da-92b0-b5f4bd3c1b4f,2020-02-20,TelÈfono Inteligente,ElectrÛnica,11,17.63,193.93
-12ee4ffc-ef0e-4e53-90bd-c8a8d5a9d743,2020-06-18,Televisor LED,ElectrÛnica,12,,299.52
-37ee2ee0-e1d7-4ce5-9b47-ccc24599402c,2020-12-13,Computadora Port·til,ElectrÛnica,10,82.81,828.1
-96d648f0-7cbf-442d-905e-c5e56df51493,2021-01-06,Tablet,ElectrÛnica,8,18.89,151.12
-c57d82f8-2eb7-462e-bffa-dc9354d144e8,2022-10-05,Reloj Inteligente,ElectrÛnica,14,57.9,810.6
-dcdd9904-3d28-48c2-80a6-54448dfbd3ae,2020-03-30,C·mara Digital,ElectrÛnica,9,31.64,284.76
-c03a187c-d483-49aa-87e0-f97adcf67ff9,2022-12-11,Consola de Videojuegos,ElectrÛnica,,50.67,810.72
-2d850420-294c-459d-a99e-4a8e7802aaf9,2023-03-14,TelÈfono Inteligente,ElectrÛnica,3,45.44,136.32
-fbb67418-37ac-45ae-a743-508da61d8e0e,2021-06-24,Televisor LED,ElectrÛnica,6,22.46,134.76
-80e8e130-1e2d-45e2-ad4b-9e8edfc6b576,2020-01-15,Computadora Port·til,ElectrÛnica,17,11.47,194.99
-4e009892-c608-43e1-9d3e-4c9aa91334a7,2020-08-20,Tablet,ElectrÛnica,3,39.29,117.87
-2d050f95-a085-4b2f-bf37-0bedf064ebd8,2024-01-22,Reloj Inteligente,ElectrÛnica,15,17.46,261.9
-54e2809d-3fd5-4d8d-a544-366ee9f5a873,2022-06-19,C·mara Digital,ElectrÛnica,,6.89,34.45
-1279998e-3b9b-4f4f-806b-4f5590709126,2022-03-15,TelÈfono Inteligente,ElectrÛnica,13,81.66,1061.58
-7bf4c03e-9c1f-40e2-b42d-78678c86971b,2023-12-11,Televisor LED,ElectrÛnica,13,,52.65
-b8a8bec7-fdae-44bd-9d20-5ab81b9ecfed,2021-03-24,Computadora Port·til,ElectrÛnica,11,35.7,392.7
-2e5ea39a-fc6b-444b-a639-49dd6f3c4b9d,2021-01-27,Tablet,ElectrÛnica,13,58.04,754.52
-337e50c2-ea82-492b-ae52-df081b717dd6,2021-10-01,Reloj Inteligente,ElectrÛnica,19,,234.08
-9dfe5df1-713b-46c9-bc6c-ec29ae4b9d5d,2024-04-15,C·mara Digital,ElectrÛnica,1,48.39,48.39
-9bae66c0-8d0c-442d-aecf-6472eaf396a2,2020-03-18,Consola de Videojuegos,ElectrÛnica,11,90.03,990.33
-e4476345-fed7-4cce-ac82-a017954c4e67,2020-08-02,Barra de Sonido,ElectrÛnica,7,93.54,654.78
-d23a1ca4-4dc0-48ed-82ed-2c5911db2309,2024-02-23,Altavoz Bluetooth,ElectrÛnica,,36.33,690.27
-7f69f638-b447-49a1-9a7c-b28318bb60a8,2020-11-07,TelÈfono Inteligente,ElectrÛnica,11,40.73,448.03
-8dc17766-5d8f-4272-acf0-53bbd6b8f451,2023-04-01,Televisor LED,ElectrÛnica,5,23.28,116.4
-3958f2f7-8f19-4062-ad50-247d54dff876,2020-02-03,Computadora Port·til,ElectrÛnica,19,58.98,1120.62
-fef04be4-f169-4b14-ba85-7c228e9adf6b,2020-02-14,Tablet,ElectrÛnica,5,87.45,437.25
-034bc0c0-599a-4bd0-8212-1438a7634cef,2022-07-15,Reloj Inteligente,ElectrÛnica,2,97.51,195.02
-cefae243-d3e7-4a29-b3ae-aec93e51c9e9,2020-05-18,C·mara Digital,ElectrÛnica,9,98.21,883.89
-63982af7-813f-4ee3-aa66-003846f5815c,2021-02-07,Consola de Videojuegos,ElectrÛnica,5,70.37,351.85
-43b1cad6-6a55-48ee-8c7f-94dc43b676cd,2024-02-14,Barra de Sonido,ElectrÛnica,,60.79,851.06
-dfb1f7f7-410d-4591-bf8b-3247e3a2c276,2020-01-01,Altavoz Bluetooth,ElectrÛnica,11,42.81,470.91
-aa980e5b-c524-4fd6-8b96-af2c2c2062cc,2024-04-21,Auriculares Inal·mbricos,ElectrÛnica,14,4.51,63.14
-64913df8-c8b4-4e49-a31c-432ebea13cda,2021-02-07,TelÈfono Inteligente,ElectrÛnica,18,73.57,1324.26
-006f10f5-0b6a-4d39-9463-2eca168ba9e2,2021-05-04,Televisor LED,ElectrÛnica,12,92.6,1111.2
-d37e10d1-e0c0-41ef-9c1f-d766bd99a439,2024-02-07,Computadora Port·til,ElectrÛnica,9,89.21,802.89
-c50c58e5-d238-464a-b847-085a5a7e8e3c,2021-09-15,Tablet,ElectrÛnica,14,41.99,587.86
-0b5e85c0-a5a1-485b-9a17-67e673db2808,2021-09-22,Reloj Inteligente,ElectrÛnica,15,90.22,1353.3
-58f1f691-a91a-4da8-844e-2a7a60fd42e7,2021-06-15,C·mara Digital,ElectrÛnica,4,42.53,170.12
-08eeae31-b1db-4453-91ea-b328a85853da,2020-12-14,Consola de Videojuegos,ElectrÛnica,3,56.6,169.8
-32c07076-1b04-40c6-aa0f-7321c520a019,2021-07-13,Barra de Sonido,ElectrÛnica,17,50.06,851.02
-50d88db8-e236-4369-a8f1-455b1bb9f8d6,2024-06-11,Altavoz Bluetooth,ElectrÛnica,6,36.04,216.24
-7181f4e5-6a50-400c-9d87-cba32e989dc4,2023-11-06,Auriculares Inal·mbricos,ElectrÛnica,7,80.77,565.39
-d56479a7-87ba-4b37-8d83-56da3092df41,2020-10-03,TelÈfono Inteligente,ElectrÛnica,2,28.76,57.52
-1af1aaa6-8666-4d40-bf3a-2c3574c6945d,2023-12-24,Televisor LED,ElectrÛnica,6,17.22,103.32
-c4fdd0cf-b81a-48ed-b2ab-48bc9cd13dd3,2022-02-05,Computadora Port·til,ElectrÛnica,,51.52,257.6
-a0dc8b4a-5e5d-4047-a099-b9b8b26d8691,2020-06-01,Tablet,ElectrÛnica,7,6.92,48.44
-1bf32938-c5a5-43d3-b577-e124fdcf8553,2020-09-05,Reloj Inteligente,ElectrÛnica,14,62.86,880.04
-2e985fc6-74c6-4aff-b8fd-1a8a2b33c67e,2023-01-19,C·mara Digital,ElectrÛnica,,,1805.76
-fdfc113b-fb33-49f2-913a-7366cbe4e518,2023-06-19,Consola de Videojuegos,ElectrÛnica,7,89.19,624.33
-62ee4ec4-71da-42bd-9fdd-d26c6209b907,2020-01-21,Barra de Sonido,ElectrÛnica,17,82.62,1404.54
-553f8493-a0df-43a8-9d9d-4236cc2e4d9c,2020-05-08,TelÈfono Inteligente,ElectrÛnica,1,39.42,39.42
-0390c528-77e3-43c8-9b26-abb99af4225e,2020-05-17,Televisor LED,ElectrÛnica,10,99.53,995.3
-926df1db-fe02-4106-98ac-c34c3546bdab,2020-12-18,Computadora Port·til,ElectrÛnica,14,99.13,1387.82
-2e3785aa-e50b-4e33-bec5-27a941cba1ba,2021-04-01,Tablet,ElectrÛnica,17,5.39,91.63
-8d84a8cb-a588-405e-b35b-76c887f7b321,2022-07-09,Reloj Inteligente,ElectrÛnica,9,43.68,393.12
-f4cc1e57-d347-49ab-acff-72c65b7271bd,2023-03-09,C·mara Digital,ElectrÛnica,18,65.87,1185.66
-0c4658a4-8e65-46a7-b484-e3617ecaefd3,2020-08-10,TelÈfono Inteligente,ElectrÛnica,1,48.37,48.37
-239af075-b16a-4e45-b325-f402fdb4535a,2021-03-08,Televisor LED,ElectrÛnica,8,13.34,106.72
-fa221d42-bebb-400e-b7d3-c7483ce8ce0d,2021-06-08,Computadora Port·til,ElectrÛnica,2,93.45,186.9
-300b722d-3217-4795-bdbc-dbf60ec08127,2022-08-31,Tablet,ElectrÛnica,10,9.51,95.1
-e33fc044-4f8e-4b18-8d21-59b6f09ec3f1,2020-07-03,Reloj Inteligente,ElectrÛnica,11,62.97,692.67
-840fb201-51d7-46d1-ae8c-cc95136f3f86,2022-12-05,C·mara Digital,ElectrÛnica,12,54.5,654
-f8f733cf-44bd-4493-8033-cc9667024b7d,2022-02-24,Consola de Videojuegos,ElectrÛnica,10,54.89,548.9
-2eeb915b-00b6-4d28-9dd4-9bc2c2e20c4c,2020-03-19,TelÈfono Inteligente,ElectrÛnica,4,94.64,378.56
-f06afbc1-5b0a-4312-8383-38d85215488c,2021-05-16,Televisor LED,ElectrÛnica,6,15.19,91.14
-6ec7f6f3-ec14-42e0-b9be-215b4788b158,2021-03-04,Computadora Port·til,ElectrÛnica,17,40.32,685.44
-9c42206e-9de1-43c7-b267-e76bd40c66b4,2020-12-15,Tablet,ElectrÛnica,,78.65,235.95
-9dd593cb-e47c-4aab-9a27-2406b5831278,2022-01-29,Reloj Inteligente,ElectrÛnica,,33.61,537.76
-d9db2d2e-9f0f-4730-a0b6-586026f63cfa,2021-06-30,C·mara Digital,ElectrÛnica,2,28.71,57.42
-2dfe3c12-e39c-473e-8315-5acf04f79312,2020-12-26,Consola de Videojuegos,ElectrÛnica,19,39.19,744.61
-03717692-82a9-4467-b681-420333c6b8f6,2023-10-21,TelÈfono Inteligente,ElectrÛnica,16,24.25,388
-e769c050-fe75-4236-b417-76a01bf5e14d,2022-12-21,Televisor LED,ElectrÛnica,17,69.11,1174.87
-b8692954-de5a-436d-974f-406713016911,2022-05-03,Computadora Port·til,ElectrÛnica,19,,1405.05
-e2e83120-9bc6-4423-a2c2-9391e12197d1,2020-07-17,Tablet,ElectrÛnica,2,7.03,14.06
-351fbd41-8593-4b3b-9800-3b146353892f,2023-07-17,Reloj Inteligente,ElectrÛnica,16,16.7,267.2
-7f645111-2469-4c22-b9db-68e924dc976a,2020-05-08,C·mara Digital,ElectrÛnica,16,25.1,401.6
-103148f2-a17d-4577-a1da-bae30f5635bf,2023-09-11,Consola de Videojuegos,ElectrÛnica,1,3.38,3.38
-a77b6fd0-4f06-4b32-991e-d62023347fb5,2024-01-14,TelÈfono Inteligente,ElectrÛnica,4,25.85,103.4
-f61dc70b-2ddf-45d5-bd61-464307a4193c,2020-01-10,Televisor LED,ElectrÛnica,,67.15,134.3
-1a9af9c4-06f8-4fac-bfa8-85816e81eb0e,2024-01-29,Computadora Port·til,ElectrÛnica,1,23.53,23.53
-95860e03-817f-46c5-979e-26dc6ec535bb,2020-11-17,Tablet,ElectrÛnica,7,42.16,295.12
-b62c9335-b137-4368-9002-22b3e7b5adb9,2022-06-29,Reloj Inteligente,ElectrÛnica,11,18.77,206.47
-2ae635a6-c453-431f-b736-f31ae4a03061,2024-04-13,C·mara Digital,ElectrÛnica,13,79.47,1033.11
-825c4b4a-2c35-4d2d-a3f6-3b61f464b240,2023-12-26,Consola de Videojuegos,ElectrÛnica,12,31.64,379.68
-277d026b-4264-44c3-8eb6-05b06095b2e8,2023-11-17,Barra de Sonido,ElectrÛnica,17,32.89,559.13
-935b63da-84d0-4060-960d-f21aae825f35,2023-10-02,TelÈfono Inteligente,ElectrÛnica,,36.15,36.15
-067e98e9-7446-4be0-88ba-a47ea500127e,2023-09-12,Televisor LED,ElectrÛnica,16,83.1,1329.6
-070a709a-adb8-4df6-bcb5-681e979e6be5,2024-02-21,Computadora Port·til,ElectrÛnica,10,,352.4
-d8542aa3-d842-40e8-9cf2-b9e5da4bcc96,2021-08-25,Tablet,ElectrÛnica,5,60.97,304.85
-e6dd862f-618c-41fa-9d57-7c58f3511a15,2020-05-13,TelÈfono Inteligente,ElectrÛnica,18,94.93,1708.74
-e30bde30-918a-4b05-a3cc-84d1133cfdae,2024-03-05,Televisor LED,ElectrÛnica,4,47.04,188.16
-696fef30-34dc-434f-a4c3-19fd2b646ec5,2021-11-26,Computadora Port·til,ElectrÛnica,11,80.6,886.6
-99b4476e-fac3-455c-a8d3-47b61a8905fa,2022-11-13,Tablet,ElectrÛnica,16,1.93,30.88
-89698d2b-f91a-4f08-a0c0-475cc611ee86,2024-04-07,Reloj Inteligente,ElectrÛnica,2,37.44,74.88
-10e46952-3573-4c2d-88e6-f6c507cbe88f,2020-03-14,C·mara Digital,ElectrÛnica,18,84.71,1524.78
-a7f698a8-4700-42b9-ac60-0d0ca36e5477,2021-10-01,Consola de Videojuegos,ElectrÛnica,2,26.01,52.02
-bac1da5b-321d-450a-b875-94b78c85f7e4,2021-06-08,Barra de Sonido,ElectrÛnica,,66.31,862.03
-a85070b3-5024-4c8c-82cc-6cf886a1ec9a,2021-01-02,TelÈfono Inteligente,ElectrÛnica,17,73.32,1246.44
-066ea5dd-9629-4378-a793-0d1ec84986be,2023-06-07,Televisor LED,ElectrÛnica,9,67.36,606.24
-dd6e7e78-f541-4f04-8c29-f28d9007b9a5,2022-06-19,Computadora Port·til,ElectrÛnica,18,42.92,772.56
-e453fff2-f85a-4535-aee3-728e11ccb8e9,2022-04-27,Tablet,ElectrÛnica,7,43.61,305.27
-a143f63b-128e-4a01-8a42-dd7af5033f06,2022-08-04,Reloj Inteligente,ElectrÛnica,17,30.47,517.99
-4474bb96-e9af-429f-b8a6-b801811d4b23,2022-10-22,C·mara Digital,ElectrÛnica,12,,774.84
-30d48358-8a69-4fd6-89c5-ad482ea4ce08,2021-01-12,TelÈfono Inteligente,ElectrÛnica,5,8.23,41.15
-f4fe6bb4-dc56-4669-b813-d68e68a44f95,2023-08-28,Televisor LED,ElectrÛnica,13,5.78,75.14
-b3e81031-af74-474d-95f9-d3f7ea8e7d62,2024-01-11,Computadora Port·til,ElectrÛnica,14,14.93,209.02
-b3a2b14f-3b7f-41ba-92c9-e404ab2cf1e4,2022-10-14,Tablet,ElectrÛnica,19,73.5,1396.5
-9e848816-49e9-41e3-8087-54fd227d0b82,2021-12-28,TelÈfono Inteligente,ElectrÛnica,15,26.82,402.3
-4fd1349c-a6a2-4fe3-bd5d-01193c488b69,2023-02-21,Televisor LED,ElectrÛnica,10,52.96,529.6
-c9e468c5-a006-4fe7-852c-27dcc41a4ea6,2020-10-29,Computadora Port·til,ElectrÛnica,6,10.43,62.58
-e2e55be5-e9b6-4837-b6fe-0bca9b5807b4,2023-09-24,Tablet,ElectrÛnica,2,78.72,157.44
-ef3d119f-e357-4ed6-8e4a-9579fa183a52,2022-04-29,Reloj Inteligente,ElectrÛnica,9,,114.03
-16b8ae46-7a73-4c79-a599-861dc4f737a9,2022-06-13,C·mara Digital,ElectrÛnica,9,75.58,680.22
-f6c236b1-3291-40ee-b912-fed181acf26a,2023-02-01,Consola de Videojuegos,ElectrÛnica,,95.06,1235.78
-31c64482-cd08-492a-b9fd-821dcdb6d435,2020-10-19,Barra de Sonido,ElectrÛnica,4,99.58,398.32
-3ceddd53-9127-4080-93cc-2a9b35f94e1c,2020-05-24,Altavoz Bluetooth,ElectrÛnica,6,80.32,481.92
-357ddcd4-df7f-4c4b-b655-793f541fd26c,2023-01-26,TelÈfono Inteligente,ElectrÛnica,18,77.77,1399.86
-631dc068-9fe9-489b-a844-196da8275340,2020-12-14,Televisor LED,ElectrÛnica,8,84.57,676.56
-9eee8661-043a-4c17-8fa3-1615d048804e,2024-03-31,Computadora Port·til,ElectrÛnica,4,53.47,213.88
-bf733045-c0a7-4248-8ae9-92491d3fbd64,2022-04-16,Tablet,ElectrÛnica,13,54.48,708.24
-00c921fa-8d31-44c7-9be0-24115444c8b2,2022-02-05,Reloj Inteligente,ElectrÛnica,13,57.53,747.89
-45a5e332-e2b0-4983-a841-193b739a850f,2020-01-02,C·mara Digital,ElectrÛnica,2,71.13,142.26
-93ef5677-03ab-4dd7-adbe-117d5d44abce,2024-03-09,TelÈfono Inteligente,ElectrÛnica,10,15.7,157
-2d69a1eb-15f9-4695-a4b7-271b08bac819,2021-06-13,Televisor LED,ElectrÛnica,19,91.34,1735.46
-018583ee-1308-4b93-a225-0637d7a8d78c,2024-04-21,Computadora Port·til,ElectrÛnica,11,25.77,283.47
-b1774832-5696-4ca0-bb11-046aefb7b3ae,2021-11-20,Tablet,ElectrÛnica,6,48.01,288.06
-0feac9c8-f09d-4047-878e-0bc067466e1f,2021-03-13,Reloj Inteligente,ElectrÛnica,9,30.63,275.67
-eba03d2b-3a98-4ce6-9384-12da043fa233,2020-04-01,C·mara Digital,ElectrÛnica,12,85.64,1027.68
-068fb966-eb0e-45b0-9255-58355bb75236,2023-05-26,Consola de Videojuegos,ElectrÛnica,17,24.68,419.56
-5253c9bd-a7dc-48ea-a002-88773cb50a52,2022-08-22,TelÈfono Inteligente,ElectrÛnica,2,56.52,113.04
-c026b6ac-f854-4db7-8cd7-8f47eb125a2e,2023-02-06,Televisor LED,ElectrÛnica,,69.9,419.4
-49c1d052-ecae-4130-bda3-ad73d027c185,2022-08-21,Computadora Port·til,ElectrÛnica,13,72.6,943.8
-b7691150-a01f-4e9b-bfe9-ac131a9b860a,2020-12-10,Tablet,ElectrÛnica,13,27.68,359.84
-b4676c70-05a9-4afd-8c74-277688596c5d,2024-05-25,Reloj Inteligente,ElectrÛnica,18,8.4,151.2
-2d55ab0c-dd7f-4624-9525-dd3a1a3715e0,2022-01-15,C·mara Digital,ElectrÛnica,18,13.25,238.5
-df88ef2a-1450-4bce-8e86-fcf06b7e5894,2021-02-24,Consola de Videojuegos,ElectrÛnica,11,7.39,81.29
-d4cce211-a9cc-47ad-bc9f-ac19d52a36fd,2022-02-01,TelÈfono Inteligente,ElectrÛnica,1,58.2,58.2
-40f0cde6-6401-4509-b632-17be03bb9b33,2021-04-15,Televisor LED,ElectrÛnica,,85.11,1446.87
-9cc080d2-2386-442a-9f0c-16d689d312bc,2020-04-10,Computadora Port·til,ElectrÛnica,16,53.18,850.88
-f3923d71-dc36-429f-b0ae-25937fb277a3,2023-12-24,Tablet,ElectrÛnica,16,19.44,311.04
-2a3a7806-79be-4f5a-9fcf-b3641909342d,2024-04-10,Reloj Inteligente,ElectrÛnica,11,26.23,288.53
-9b7c5363-ce6d-4790-9157-d4ae4a379642,2023-05-26,C·mara Digital,ElectrÛnica,17,44.06,749.02
-cacc94dc-32e0-42b5-b361-8fcba8624be2,2021-04-30,Consola de Videojuegos,ElectrÛnica,10,49.09,490.9
-d950c4a7-106e-4e2e-9833-c96017411bd3,2022-11-13,TelÈfono Inteligente,ElectrÛnica,11,71.18,782.98
-e256770b-4f8e-43e0-965a-ac26dbead7f8,2023-07-24,Televisor LED,ElectrÛnica,,11.31,11.31
-8baacad2-deb6-4e11-8655-40ea9ca4f757,2021-04-09,Computadora Port·til,ElectrÛnica,17,97.84,1663.28
-7388da27-c3dd-48af-85a6-828c6302bd8f,2021-09-10,Tablet,ElectrÛnica,5,95.01,475.05
-56221ab0-6388-45a5-826f-15f9db73a52c,2020-08-14,Reloj Inteligente,ElectrÛnica,7,53.72,376.04
-8a0be68f-0885-4838-9b5a-a77da1012808,2022-08-15,C·mara Digital,ElectrÛnica,,76.06,912.72
-a38560bb-8efe-4c6c-9e8c-b11aaa35ff6d,2021-03-13,Consola de Videojuegos,ElectrÛnica,2,22.26,44.52
-560c3993-5ac4-4b78-8c62-52665fc5be20,2021-12-29,Barra de Sonido,ElectrÛnica,18,29.1,523.8
-83d8fb82-1646-47da-a5c7-3b2cd886a855,2024-06-10,TelÈfono Inteligente,ElectrÛnica,15,1.83,27.45
-f1eef69f-f5ec-4752-baa1-5b2b7182bba4,2022-02-07,Televisor LED,ElectrÛnica,9,51.21,460.89
-6ddd38a7-0afb-4dee-9557-77b1161bd9e7,2021-07-21,Computadora Port·til,ElectrÛnica,6,12.96,77.76
-3b5d03a6-49bc-4a6b-ba80-ab6ad20ebf80,2023-03-20,Tablet,ElectrÛnica,12,37.45,449.4
-ae3fed25-a9e4-4f18-9256-85db705f483e,2021-01-17,Reloj Inteligente,ElectrÛnica,12,11.75,141
-25841b87-4a98-4267-8cef-43ae6929de7a,2024-03-19,C·mara Digital,ElectrÛnica,13,84.33,1096.29
-70100d82-476d-4157-b79a-d8514c3a8964,2021-07-05,Consola de Videojuegos,ElectrÛnica,1,73.55,73.55
-dcda3baa-db8a-4fd2-a341-ae2d2b173421,2020-08-24,Barra de Sonido,ElectrÛnica,1,95.84,95.84
-83700658-f8c3-4901-96da-6c4843d7a337,2024-02-11,Altavoz Bluetooth,ElectrÛnica,18,47.56,856.08
-8821deb5-97e8-4c38-868b-757f02530162,2020-08-06,Auriculares Inal·mbricos,ElectrÛnica,19,15.24,289.56
-4e5e4851-7aee-480a-8154-6a11fa5a20e1,2020-08-30,TelÈfono Inteligente,ElectrÛnica,4,30.38,121.52
-47508191-d0a9-47bf-9d54-6a16c8e0f5d8,2020-06-30,Televisor LED,ElectrÛnica,7,,360.01
-0ac2ad54-f881-45a8-a041-66e110f162cc,2023-12-10,TelÈfono Inteligente,ElectrÛnica,6,54.66,327.96
-cd4ff8fb-f366-4a1d-ac60-8045fba6d974,2023-12-22,Televisor LED,ElectrÛnica,13,95.38,1239.94
-8c054a47-d876-4462-b257-e2cc786d1464,2020-03-04,Computadora Port·til,ElectrÛnica,6,4.01,24.06
-fc9492bd-60b0-4e59-9159-b50235dd0644,2024-02-29,Tablet,ElectrÛnica,16,28.46,455.36
-d6e4384d-afb5-448d-a7a9-1efda2e3cfe7,2023-08-22,Reloj Inteligente,ElectrÛnica,13,20.97,272.61
-1ea132c9-aa02-42fe-9bce-73426c8beaba,2020-08-25,C·mara Digital,ElectrÛnica,11,48.37,532.07
-316549f9-5f66-4c24-bbfb-f87e14103088,2020-02-06,Consola de Videojuegos,ElectrÛnica,12,80.61,967.32
-6b063741-2792-4ee2-8f89-4a673b6bbfa5,2022-04-05,Barra de Sonido,ElectrÛnica,10,45.33,453.3
-e4f61cb8-7919-4698-bf57-e0d7de704cac,2020-06-01,Altavoz Bluetooth,ElectrÛnica,9,59.96,539.64
-52a7d027-f1b4-4517-84c8-eb22d47b0540,2022-01-22,Auriculares Inal·mbricos,ElectrÛnica,4,70.6,282.4
-d73d3df8-5deb-4106-baa4-865c9bc849a8,2021-03-17,Altavoz Bluetooth,ElectrÛnica,1,27.04,27.04
-da99df10-3677-4f42-aee9-5129783d282a,2024-03-26,Auriculares Inal·mbricos,ElectrÛnica,14,42.18,590.52
-89dc2eef-a523-4ea9-a343-500ff0c624ef,2020-11-11,Altavoz Bluetooth,ElectrÛnica,4,95.04,380.16
-e6eb5c56-1498-4ad2-ab85-9742d8f86f15,2021-11-23,Auriculares Inal·mbricos,ElectrÛnica,17,85.99,1461.83
-a14c304e-4173-457d-8d03-c5ac1bde30c5,2022-03-23,JabÛn de Manos,Higiene,13,90.54,1177.02
+8da46ac2-4032-41da-92b0-b5f4bd3c1b4f,2020-02-20,Tel√©fono Inteligente,Electr√≥nica,11,17.63,193.93
+12ee4ffc-ef0e-4e53-90bd-c8a8d5a9d743,2020-06-18,Televisor LED,Electr√≥nica,12,,299.52
+37ee2ee0-e1d7-4ce5-9b47-ccc24599402c,2020-12-13,Computadora Port√°til,Electr√≥nica,10,82.81,828.1
+96d648f0-7cbf-442d-905e-c5e56df51493,2021-01-06,Tablet,Electr√≥nica,8,18.89,151.12
+c57d82f8-2eb7-462e-bffa-dc9354d144e8,2022-10-05,Reloj Inteligente,Electr√≥nica,14,57.9,810.6
+dcdd9904-3d28-48c2-80a6-54448dfbd3ae,2020-03-30,C√°mara Digital,Electr√≥nica,9,31.64,284.76
+c03a187c-d483-49aa-87e0-f97adcf67ff9,2022-12-11,Consola de Videojuegos,Electr√≥nica,,50.67,810.72
+2d850420-294c-459d-a99e-4a8e7802aaf9,2023-03-14,Tel√©fono Inteligente,Electr√≥nica,3,45.44,136.32
+fbb67418-37ac-45ae-a743-508da61d8e0e,2021-06-24,Televisor LED,Electr√≥nica,6,22.46,134.76
+80e8e130-1e2d-45e2-ad4b-9e8edfc6b576,2020-01-15,Computadora Port√°til,Electr√≥nica,17,11.47,194.99
+4e009892-c608-43e1-9d3e-4c9aa91334a7,2020-08-20,Tablet,Electr√≥nica,3,39.29,117.87
+2d050f95-a085-4b2f-bf37-0bedf064ebd8,2024-01-22,Reloj Inteligente,Electr√≥nica,15,17.46,261.9
+54e2809d-3fd5-4d8d-a544-366ee9f5a873,2022-06-19,C√°mara Digital,Electr√≥nica,,6.89,34.45
+1279998e-3b9b-4f4f-806b-4f5590709126,2022-03-15,Tel√©fono Inteligente,Electr√≥nica,13,81.66,1061.58
+7bf4c03e-9c1f-40e2-b42d-78678c86971b,2023-12-11,Televisor LED,Electr√≥nica,13,,52.65
+b8a8bec7-fdae-44bd-9d20-5ab81b9ecfed,2021-03-24,Computadora Port√°til,Electr√≥nica,11,35.7,392.7
+2e5ea39a-fc6b-444b-a639-49dd6f3c4b9d,2021-01-27,Tablet,Electr√≥nica,13,58.04,754.52
+337e50c2-ea82-492b-ae52-df081b717dd6,2021-10-01,Reloj Inteligente,Electr√≥nica,19,,234.08
+9dfe5df1-713b-46c9-bc6c-ec29ae4b9d5d,2024-04-15,C√°mara Digital,Electr√≥nica,1,48.39,48.39
+9bae66c0-8d0c-442d-aecf-6472eaf396a2,2020-03-18,Consola de Videojuegos,Electr√≥nica,11,90.03,990.33
+e4476345-fed7-4cce-ac82-a017954c4e67,2020-08-02,Barra de Sonido,Electr√≥nica,7,93.54,654.78
+d23a1ca4-4dc0-48ed-82ed-2c5911db2309,2024-02-23,Altavoz Bluetooth,Electr√≥nica,,36.33,690.27
+7f69f638-b447-49a1-9a7c-b28318bb60a8,2020-11-07,Tel√©fono Inteligente,Electr√≥nica,11,40.73,448.03
+8dc17766-5d8f-4272-acf0-53bbd6b8f451,2023-04-01,Televisor LED,Electr√≥nica,5,23.28,116.4
+3958f2f7-8f19-4062-ad50-247d54dff876,2020-02-03,Computadora Port√°til,Electr√≥nica,19,58.98,1120.62
+fef04be4-f169-4b14-ba85-7c228e9adf6b,2020-02-14,Tablet,Electr√≥nica,5,87.45,437.25
+034bc0c0-599a-4bd0-8212-1438a7634cef,2022-07-15,Reloj Inteligente,Electr√≥nica,2,97.51,195.02
+cefae243-d3e7-4a29-b3ae-aec93e51c9e9,2020-05-18,C√°mara Digital,Electr√≥nica,9,98.21,883.89
+63982af7-813f-4ee3-aa66-003846f5815c,2021-02-07,Consola de Videojuegos,Electr√≥nica,5,70.37,351.85
+43b1cad6-6a55-48ee-8c7f-94dc43b676cd,2024-02-14,Barra de Sonido,Electr√≥nica,,60.79,851.06
+dfb1f7f7-410d-4591-bf8b-3247e3a2c276,2020-01-01,Altavoz Bluetooth,Electr√≥nica,11,42.81,470.91
+aa980e5b-c524-4fd6-8b96-af2c2c2062cc,2024-04-21,Auriculares Inal√°mbricos,Electr√≥nica,14,4.51,63.14
+64913df8-c8b4-4e49-a31c-432ebea13cda,2021-02-07,Tel√©fono Inteligente,Electr√≥nica,18,73.57,1324.26
+006f10f5-0b6a-4d39-9463-2eca168ba9e2,2021-05-04,Televisor LED,Electr√≥nica,12,92.6,1111.2
+d37e10d1-e0c0-41ef-9c1f-d766bd99a439,2024-02-07,Computadora Port√°til,Electr√≥nica,9,89.21,802.89
+c50c58e5-d238-464a-b847-085a5a7e8e3c,2021-09-15,Tablet,Electr√≥nica,14,41.99,587.86
+0b5e85c0-a5a1-485b-9a17-67e673db2808,2021-09-22,Reloj Inteligente,Electr√≥nica,15,90.22,1353.3
+58f1f691-a91a-4da8-844e-2a7a60fd42e7,2021-06-15,C√°mara Digital,Electr√≥nica,4,42.53,170.12
+08eeae31-b1db-4453-91ea-b328a85853da,2020-12-14,Consola de Videojuegos,Electr√≥nica,3,56.6,169.8
+32c07076-1b04-40c6-aa0f-7321c520a019,2021-07-13,Barra de Sonido,Electr√≥nica,17,50.06,851.02
+50d88db8-e236-4369-a8f1-455b1bb9f8d6,2024-06-11,Altavoz Bluetooth,Electr√≥nica,6,36.04,216.24
+7181f4e5-6a50-400c-9d87-cba32e989dc4,2023-11-06,Auriculares Inal√°mbricos,Electr√≥nica,7,80.77,565.39
+d56479a7-87ba-4b37-8d83-56da3092df41,2020-10-03,Tel√©fono Inteligente,Electr√≥nica,2,28.76,57.52
+1af1aaa6-8666-4d40-bf3a-2c3574c6945d,2023-12-24,Televisor LED,Electr√≥nica,6,17.22,103.32
+c4fdd0cf-b81a-48ed-b2ab-48bc9cd13dd3,2022-02-05,Computadora Port√°til,Electr√≥nica,,51.52,257.6
+a0dc8b4a-5e5d-4047-a099-b9b8b26d8691,2020-06-01,Tablet,Electr√≥nica,7,6.92,48.44
+1bf32938-c5a5-43d3-b577-e124fdcf8553,2020-09-05,Reloj Inteligente,Electr√≥nica,14,62.86,880.04
+2e985fc6-74c6-4aff-b8fd-1a8a2b33c67e,2023-01-19,C√°mara Digital,Electr√≥nica,,,1805.76
+fdfc113b-fb33-49f2-913a-7366cbe4e518,2023-06-19,Consola de Videojuegos,Electr√≥nica,7,89.19,624.33
+62ee4ec4-71da-42bd-9fdd-d26c6209b907,2020-01-21,Barra de Sonido,Electr√≥nica,17,82.62,1404.54
+553f8493-a0df-43a8-9d9d-4236cc2e4d9c,2020-05-08,Tel√©fono Inteligente,Electr√≥nica,1,39.42,39.42
+0390c528-77e3-43c8-9b26-abb99af4225e,2020-05-17,Televisor LED,Electr√≥nica,10,99.53,995.3
+926df1db-fe02-4106-98ac-c34c3546bdab,2020-12-18,Computadora Port√°til,Electr√≥nica,14,99.13,1387.82
+2e3785aa-e50b-4e33-bec5-27a941cba1ba,2021-04-01,Tablet,Electr√≥nica,17,5.39,91.63
+8d84a8cb-a588-405e-b35b-76c887f7b321,2022-07-09,Reloj Inteligente,Electr√≥nica,9,43.68,393.12
+f4cc1e57-d347-49ab-acff-72c65b7271bd,2023-03-09,C√°mara Digital,Electr√≥nica,18,65.87,1185.66
+0c4658a4-8e65-46a7-b484-e3617ecaefd3,2020-08-10,Tel√©fono Inteligente,Electr√≥nica,1,48.37,48.37
+239af075-b16a-4e45-b325-f402fdb4535a,2021-03-08,Televisor LED,Electr√≥nica,8,13.34,106.72
+fa221d42-bebb-400e-b7d3-c7483ce8ce0d,2021-06-08,Computadora Port√°til,Electr√≥nica,2,93.45,186.9
+300b722d-3217-4795-bdbc-dbf60ec08127,2022-08-31,Tablet,Electr√≥nica,10,9.51,95.1
+e33fc044-4f8e-4b18-8d21-59b6f09ec3f1,2020-07-03,Reloj Inteligente,Electr√≥nica,11,62.97,692.67
+840fb201-51d7-46d1-ae8c-cc95136f3f86,2022-12-05,C√°mara Digital,Electr√≥nica,12,54.5,654
+f8f733cf-44bd-4493-8033-cc9667024b7d,2022-02-24,Consola de Videojuegos,Electr√≥nica,10,54.89,548.9
+2eeb915b-00b6-4d28-9dd4-9bc2c2e20c4c,2020-03-19,Tel√©fono Inteligente,Electr√≥nica,4,94.64,378.56
+f06afbc1-5b0a-4312-8383-38d85215488c,2021-05-16,Televisor LED,Electr√≥nica,6,15.19,91.14
+6ec7f6f3-ec14-42e0-b9be-215b4788b158,2021-03-04,Computadora Port√°til,Electr√≥nica,17,40.32,685.44
+9c42206e-9de1-43c7-b267-e76bd40c66b4,2020-12-15,Tablet,Electr√≥nica,,78.65,235.95
+9dd593cb-e47c-4aab-9a27-2406b5831278,2022-01-29,Reloj Inteligente,Electr√≥nica,,33.61,537.76
+d9db2d2e-9f0f-4730-a0b6-586026f63cfa,2021-06-30,C√°mara Digital,Electr√≥nica,2,28.71,57.42
+2dfe3c12-e39c-473e-8315-5acf04f79312,2020-12-26,Consola de Videojuegos,Electr√≥nica,19,39.19,744.61
+03717692-82a9-4467-b681-420333c6b8f6,2023-10-21,Tel√©fono Inteligente,Electr√≥nica,16,24.25,388
+e769c050-fe75-4236-b417-76a01bf5e14d,2022-12-21,Televisor LED,Electr√≥nica,17,69.11,1174.87
+b8692954-de5a-436d-974f-406713016911,2022-05-03,Computadora Port√°til,Electr√≥nica,19,,1405.05
+e2e83120-9bc6-4423-a2c2-9391e12197d1,2020-07-17,Tablet,Electr√≥nica,2,7.03,14.06
+351fbd41-8593-4b3b-9800-3b146353892f,2023-07-17,Reloj Inteligente,Electr√≥nica,16,16.7,267.2
+7f645111-2469-4c22-b9db-68e924dc976a,2020-05-08,C√°mara Digital,Electr√≥nica,16,25.1,401.6
+103148f2-a17d-4577-a1da-bae30f5635bf,2023-09-11,Consola de Videojuegos,Electr√≥nica,1,3.38,3.38
+a77b6fd0-4f06-4b32-991e-d62023347fb5,2024-01-14,Tel√©fono Inteligente,Electr√≥nica,4,25.85,103.4
+f61dc70b-2ddf-45d5-bd61-464307a4193c,2020-01-10,Televisor LED,Electr√≥nica,,67.15,134.3
+1a9af9c4-06f8-4fac-bfa8-85816e81eb0e,2024-01-29,Computadora Port√°til,Electr√≥nica,1,23.53,23.53
+95860e03-817f-46c5-979e-26dc6ec535bb,2020-11-17,Tablet,Electr√≥nica,7,42.16,295.12
+b62c9335-b137-4368-9002-22b3e7b5adb9,2022-06-29,Reloj Inteligente,Electr√≥nica,11,18.77,206.47
+2ae635a6-c453-431f-b736-f31ae4a03061,2024-04-13,C√°mara Digital,Electr√≥nica,13,79.47,1033.11
+825c4b4a-2c35-4d2d-a3f6-3b61f464b240,2023-12-26,Consola de Videojuegos,Electr√≥nica,12,31.64,379.68
+277d026b-4264-44c3-8eb6-05b06095b2e8,2023-11-17,Barra de Sonido,Electr√≥nica,17,32.89,559.13
+935b63da-84d0-4060-960d-f21aae825f35,2023-10-02,Tel√©fono Inteligente,Electr√≥nica,,36.15,36.15
+067e98e9-7446-4be0-88ba-a47ea500127e,2023-09-12,Televisor LED,Electr√≥nica,16,83.1,1329.6
+070a709a-adb8-4df6-bcb5-681e979e6be5,2024-02-21,Computadora Port√°til,Electr√≥nica,10,,352.4
+d8542aa3-d842-40e8-9cf2-b9e5da4bcc96,2021-08-25,Tablet,Electr√≥nica,5,60.97,304.85
+e6dd862f-618c-41fa-9d57-7c58f3511a15,2020-05-13,Tel√©fono Inteligente,Electr√≥nica,18,94.93,1708.74
+e30bde30-918a-4b05-a3cc-84d1133cfdae,2024-03-05,Televisor LED,Electr√≥nica,4,47.04,188.16
+696fef30-34dc-434f-a4c3-19fd2b646ec5,2021-11-26,Computadora Port√°til,Electr√≥nica,11,80.6,886.6
+99b4476e-fac3-455c-a8d3-47b61a8905fa,2022-11-13,Tablet,Electr√≥nica,16,1.93,30.88
+89698d2b-f91a-4f08-a0c0-475cc611ee86,2024-04-07,Reloj Inteligente,Electr√≥nica,2,37.44,74.88
+10e46952-3573-4c2d-88e6-f6c507cbe88f,2020-03-14,C√°mara Digital,Electr√≥nica,18,84.71,1524.78
+a7f698a8-4700-42b9-ac60-0d0ca36e5477,2021-10-01,Consola de Videojuegos,Electr√≥nica,2,26.01,52.02
+bac1da5b-321d-450a-b875-94b78c85f7e4,2021-06-08,Barra de Sonido,Electr√≥nica,,66.31,862.03
+a85070b3-5024-4c8c-82cc-6cf886a1ec9a,2021-01-02,Tel√©fono Inteligente,Electr√≥nica,17,73.32,1246.44
+066ea5dd-9629-4378-a793-0d1ec84986be,2023-06-07,Televisor LED,Electr√≥nica,9,67.36,606.24
+dd6e7e78-f541-4f04-8c29-f28d9007b9a5,2022-06-19,Computadora Port√°til,Electr√≥nica,18,42.92,772.56
+e453fff2-f85a-4535-aee3-728e11ccb8e9,2022-04-27,Tablet,Electr√≥nica,7,43.61,305.27
+a143f63b-128e-4a01-8a42-dd7af5033f06,2022-08-04,Reloj Inteligente,Electr√≥nica,17,30.47,517.99
+4474bb96-e9af-429f-b8a6-b801811d4b23,2022-10-22,C√°mara Digital,Electr√≥nica,12,,774.84
+30d48358-8a69-4fd6-89c5-ad482ea4ce08,2021-01-12,Tel√©fono Inteligente,Electr√≥nica,5,8.23,41.15
+f4fe6bb4-dc56-4669-b813-d68e68a44f95,2023-08-28,Televisor LED,Electr√≥nica,13,5.78,75.14
+b3e81031-af74-474d-95f9-d3f7ea8e7d62,2024-01-11,Computadora Port√°til,Electr√≥nica,14,14.93,209.02
+b3a2b14f-3b7f-41ba-92c9-e404ab2cf1e4,2022-10-14,Tablet,Electr√≥nica,19,73.5,1396.5
+9e848816-49e9-41e3-8087-54fd227d0b82,2021-12-28,Tel√©fono Inteligente,Electr√≥nica,15,26.82,402.3
+4fd1349c-a6a2-4fe3-bd5d-01193c488b69,2023-02-21,Televisor LED,Electr√≥nica,10,52.96,529.6
+c9e468c5-a006-4fe7-852c-27dcc41a4ea6,2020-10-29,Computadora Port√°til,Electr√≥nica,6,10.43,62.58
+e2e55be5-e9b6-4837-b6fe-0bca9b5807b4,2023-09-24,Tablet,Electr√≥nica,2,78.72,157.44
+ef3d119f-e357-4ed6-8e4a-9579fa183a52,2022-04-29,Reloj Inteligente,Electr√≥nica,9,,114.03
+16b8ae46-7a73-4c79-a599-861dc4f737a9,2022-06-13,C√°mara Digital,Electr√≥nica,9,75.58,680.22
+f6c236b1-3291-40ee-b912-fed181acf26a,2023-02-01,Consola de Videojuegos,Electr√≥nica,,95.06,1235.78
+31c64482-cd08-492a-b9fd-821dcdb6d435,2020-10-19,Barra de Sonido,Electr√≥nica,4,99.58,398.32
+3ceddd53-9127-4080-93cc-2a9b35f94e1c,2020-05-24,Altavoz Bluetooth,Electr√≥nica,6,80.32,481.92
+357ddcd4-df7f-4c4b-b655-793f541fd26c,2023-01-26,Tel√©fono Inteligente,Electr√≥nica,18,77.77,1399.86
+631dc068-9fe9-489b-a844-196da8275340,2020-12-14,Televisor LED,Electr√≥nica,8,84.57,676.56
+9eee8661-043a-4c17-8fa3-1615d048804e,2024-03-31,Computadora Port√°til,Electr√≥nica,4,53.47,213.88
+bf733045-c0a7-4248-8ae9-92491d3fbd64,2022-04-16,Tablet,Electr√≥nica,13,54.48,708.24
+00c921fa-8d31-44c7-9be0-24115444c8b2,2022-02-05,Reloj Inteligente,Electr√≥nica,13,57.53,747.89
+45a5e332-e2b0-4983-a841-193b739a850f,2020-01-02,C√°mara Digital,Electr√≥nica,2,71.13,142.26
+93ef5677-03ab-4dd7-adbe-117d5d44abce,2024-03-09,Tel√©fono Inteligente,Electr√≥nica,10,15.7,157
+2d69a1eb-15f9-4695-a4b7-271b08bac819,2021-06-13,Televisor LED,Electr√≥nica,19,91.34,1735.46
+018583ee-1308-4b93-a225-0637d7a8d78c,2024-04-21,Computadora Port√°til,Electr√≥nica,11,25.77,283.47
+b1774832-5696-4ca0-bb11-046aefb7b3ae,2021-11-20,Tablet,Electr√≥nica,6,48.01,288.06
+0feac9c8-f09d-4047-878e-0bc067466e1f,2021-03-13,Reloj Inteligente,Electr√≥nica,9,30.63,275.67
+eba03d2b-3a98-4ce6-9384-12da043fa233,2020-04-01,C√°mara Digital,Electr√≥nica,12,85.64,1027.68
+068fb966-eb0e-45b0-9255-58355bb75236,2023-05-26,Consola de Videojuegos,Electr√≥nica,17,24.68,419.56
+5253c9bd-a7dc-48ea-a002-88773cb50a52,2022-08-22,Tel√©fono Inteligente,Electr√≥nica,2,56.52,113.04
+c026b6ac-f854-4db7-8cd7-8f47eb125a2e,2023-02-06,Televisor LED,Electr√≥nica,,69.9,419.4
+49c1d052-ecae-4130-bda3-ad73d027c185,2022-08-21,Computadora Port√°til,Electr√≥nica,13,72.6,943.8
+b7691150-a01f-4e9b-bfe9-ac131a9b860a,2020-12-10,Tablet,Electr√≥nica,13,27.68,359.84
+b4676c70-05a9-4afd-8c74-277688596c5d,2024-05-25,Reloj Inteligente,Electr√≥nica,18,8.4,151.2
+2d55ab0c-dd7f-4624-9525-dd3a1a3715e0,2022-01-15,C√°mara Digital,Electr√≥nica,18,13.25,238.5
+df88ef2a-1450-4bce-8e86-fcf06b7e5894,2021-02-24,Consola de Videojuegos,Electr√≥nica,11,7.39,81.29
+d4cce211-a9cc-47ad-bc9f-ac19d52a36fd,2022-02-01,Tel√©fono Inteligente,Electr√≥nica,1,58.2,58.2
+40f0cde6-6401-4509-b632-17be03bb9b33,2021-04-15,Televisor LED,Electr√≥nica,,85.11,1446.87
+9cc080d2-2386-442a-9f0c-16d689d312bc,2020-04-10,Computadora Port√°til,Electr√≥nica,16,53.18,850.88
+f3923d71-dc36-429f-b0ae-25937fb277a3,2023-12-24,Tablet,Electr√≥nica,16,19.44,311.04
+2a3a7806-79be-4f5a-9fcf-b3641909342d,2024-04-10,Reloj Inteligente,Electr√≥nica,11,26.23,288.53
+9b7c5363-ce6d-4790-9157-d4ae4a379642,2023-05-26,C√°mara Digital,Electr√≥nica,17,44.06,749.02
+cacc94dc-32e0-42b5-b361-8fcba8624be2,2021-04-30,Consola de Videojuegos,Electr√≥nica,10,49.09,490.9
+d950c4a7-106e-4e2e-9833-c96017411bd3,2022-11-13,Tel√©fono Inteligente,Electr√≥nica,11,71.18,782.98
+e256770b-4f8e-43e0-965a-ac26dbead7f8,2023-07-24,Televisor LED,Electr√≥nica,,11.31,11.31
+8baacad2-deb6-4e11-8655-40ea9ca4f757,2021-04-09,Computadora Port√°til,Electr√≥nica,17,97.84,1663.28
+7388da27-c3dd-48af-85a6-828c6302bd8f,2021-09-10,Tablet,Electr√≥nica,5,95.01,475.05
+56221ab0-6388-45a5-826f-15f9db73a52c,2020-08-14,Reloj Inteligente,Electr√≥nica,7,53.72,376.04
+8a0be68f-0885-4838-9b5a-a77da1012808,2022-08-15,C√°mara Digital,Electr√≥nica,,76.06,912.72
+a38560bb-8efe-4c6c-9e8c-b11aaa35ff6d,2021-03-13,Consola de Videojuegos,Electr√≥nica,2,22.26,44.52
+560c3993-5ac4-4b78-8c62-52665fc5be20,2021-12-29,Barra de Sonido,Electr√≥nica,18,29.1,523.8
+83d8fb82-1646-47da-a5c7-3b2cd886a855,2024-06-10,Tel√©fono Inteligente,Electr√≥nica,15,1.83,27.45
+f1eef69f-f5ec-4752-baa1-5b2b7182bba4,2022-02-07,Televisor LED,Electr√≥nica,9,51.21,460.89
+6ddd38a7-0afb-4dee-9557-77b1161bd9e7,2021-07-21,Computadora Port√°til,Electr√≥nica,6,12.96,77.76
+3b5d03a6-49bc-4a6b-ba80-ab6ad20ebf80,2023-03-20,Tablet,Electr√≥nica,12,37.45,449.4
+ae3fed25-a9e4-4f18-9256-85db705f483e,2021-01-17,Reloj Inteligente,Electr√≥nica,12,11.75,141
+25841b87-4a98-4267-8cef-43ae6929de7a,2024-03-19,C√°mara Digital,Electr√≥nica,13,84.33,1096.29
+70100d82-476d-4157-b79a-d8514c3a8964,2021-07-05,Consola de Videojuegos,Electr√≥nica,1,73.55,73.55
+dcda3baa-db8a-4fd2-a341-ae2d2b173421,2020-08-24,Barra de Sonido,Electr√≥nica,1,95.84,95.84
+83700658-f8c3-4901-96da-6c4843d7a337,2024-02-11,Altavoz Bluetooth,Electr√≥nica,18,47.56,856.08
+8821deb5-97e8-4c38-868b-757f02530162,2020-08-06,Auriculares Inal√°mbricos,Electr√≥nica,19,15.24,289.56
+4e5e4851-7aee-480a-8154-6a11fa5a20e1,2020-08-30,Tel√©fono Inteligente,Electr√≥nica,4,30.38,121.52
+47508191-d0a9-47bf-9d54-6a16c8e0f5d8,2020-06-30,Televisor LED,Electr√≥nica,7,,360.01
+0ac2ad54-f881-45a8-a041-66e110f162cc,2023-12-10,Tel√©fono Inteligente,Electr√≥nica,6,54.66,327.96
+cd4ff8fb-f366-4a1d-ac60-8045fba6d974,2023-12-22,Televisor LED,Electr√≥nica,13,95.38,1239.94
+8c054a47-d876-4462-b257-e2cc786d1464,2020-03-04,Computadora Port√°til,Electr√≥nica,6,4.01,24.06
+fc9492bd-60b0-4e59-9159-b50235dd0644,2024-02-29,Tablet,Electr√≥nica,16,28.46,455.36
+d6e4384d-afb5-448d-a7a9-1efda2e3cfe7,2023-08-22,Reloj Inteligente,Electr√≥nica,13,20.97,272.61
+1ea132c9-aa02-42fe-9bce-73426c8beaba,2020-08-25,C√°mara Digital,Electr√≥nica,11,48.37,532.07
+316549f9-5f66-4c24-bbfb-f87e14103088,2020-02-06,Consola de Videojuegos,Electr√≥nica,12,80.61,967.32
+6b063741-2792-4ee2-8f89-4a673b6bbfa5,2022-04-05,Barra de Sonido,Electr√≥nica,10,45.33,453.3
+e4f61cb8-7919-4698-bf57-e0d7de704cac,2020-06-01,Altavoz Bluetooth,Electr√≥nica,9,59.96,539.64
+52a7d027-f1b4-4517-84c8-eb22d47b0540,2022-01-22,Auriculares Inal√°mbricos,Electr√≥nica,4,70.6,282.4
+d73d3df8-5deb-4106-baa4-865c9bc849a8,2021-03-17,Altavoz Bluetooth,Electr√≥nica,1,27.04,27.04
+da99df10-3677-4f42-aee9-5129783d282a,2024-03-26,Auriculares Inal√°mbricos,Electr√≥nica,14,42.18,590.52
+89dc2eef-a523-4ea9-a343-500ff0c624ef,2020-11-11,Altavoz Bluetooth,Electr√≥nica,4,95.04,380.16
+e6eb5c56-1498-4ad2-ab85-9742d8f86f15,2021-11-23,Auriculares Inal√°mbricos,Electr√≥nica,17,85.99,1461.83
+a14c304e-4173-457d-8d03-c5ac1bde30c5,2022-03-23,Jab√≥n de Manos,Higiene,13,90.54,1177.02
 20bf5dd6-6da8-4a79-bf9b-4485ed58dce7,2023-01-12,Pasta de Dientes,Higiene,11,17.9,196.9
 92110733-0364-441f-8fd8-5c08f02783ab,2024-02-17,Cepillo de Dientes,Higiene,16,7.69,123.04
 9c1cb380-91af-408e-b61b-6243beda7789,2022-04-28,Desodorante,Higiene,8,,731.84
-41e6ed0b-8e88-48ad-a45c-74f748f7d36a,2021-04-05,Champ˙,Higiene,19,21.25,403.75
+41e6ed0b-8e88-48ad-a45c-74f748f7d36a,2021-04-05,Champ√∫,Higiene,19,21.25,403.75
 7699bb84-29cd-4e69-95c1-abd8563ca289,2022-08-02,Acondicionador,Higiene,14,38.04,532.56
 0f14083c-da00-4f53-ac2a-fce536d37311,2021-04-07,Gel de Ducha,Higiene,5,92.26,461.3
-67b8b823-a7f3-4a96-a19e-1f1b0ddc2418,2022-09-17,Toallitas H˙medas,Higiene,3,77.12,231.36
-42be6f2d-44b6-484b-9be2-806e6ead12e8,2024-01-10,Papel HigiÈnico,Higiene,15,37.51,562.65
+67b8b823-a7f3-4a96-a19e-1f1b0ddc2418,2022-09-17,Toallitas H√∫medas,Higiene,3,77.12,231.36
+42be6f2d-44b6-484b-9be2-806e6ead12e8,2024-01-10,Papel Higi√©nico,Higiene,15,37.51,562.65
 a385b173-4a0c-4362-94ec-d069809133c5,2020-02-14,Enjuague Bucal,Higiene,1,91.66,91.66
 fc778895-e535-4562-b1e2-17df19f6c237,2021-08-16,Hilo Dental,Higiene,1,31.9,31.9
 23feec54-52be-4cf6-ac72-ce6e523714e6,2023-05-16,Crema Hidratante,Higiene,11,20.06,220.66
 9f7b5e71-b5a4-44e9-b60d-d7824a2e5ed0,2022-05-11,Desinfectante de Manos,Higiene,11,65.93,725.23
-9ffb0583-5b19-4c68-a9c2-957db4f29efd,2020-03-17,PaÒuelos Desechables,Higiene,19,52.64,1000.16
-534cb90e-0393-4ba4-be3e-fb27c68e91b7,2021-06-01,Bastoncillos de AlgodÛn,Higiene,2,51.91,103.82
-76c3f34f-1f00-4b34-ae04-79122e9db7a0,2020-08-23,JabÛn Antibacterial,Higiene,2,46.6,93.2
+9ffb0583-5b19-4c68-a9c2-957db4f29efd,2020-03-17,Pa√±uelos Desechables,Higiene,19,52.64,1000.16
+534cb90e-0393-4ba4-be3e-fb27c68e91b7,2021-06-01,Bastoncillos de Algod√≥n,Higiene,2,51.91,103.82
+76c3f34f-1f00-4b34-ae04-79122e9db7a0,2020-08-23,Jab√≥n Antibacterial,Higiene,2,46.6,93.2
 1c0686c2-7995-4af2-af85-d4f5d3daa87f,2022-05-11,Gel Antibacterial,Higiene,,35.19,316.71
 3c88b8b9-3634-4b33-94bb-23aa9c97f7fd,2023-01-08,Protector Solar,Higiene,9,79.32,713.88
 00d6ca6a-e400-4db8-8598-158e8aab2125,2020-05-12,Crema para Afeitar,Higiene,11,23.99,263.89
@@ -603,39 +603,39 @@ fbc63ecc-4df6-4c1f-a1b5-59ea46f323a6,2023-11-18,Maquinilla de Afeitar,Higiene,10
 70f8942c-4e57-4245-9b53-1b924a25f485,2020-08-31,Desmaquillante de Ojos,Higiene,18,82.67,1488.06
 0ffe4af4-3ffc-454d-9f25-8fc6f4ce2d12,2021-08-26,Limpiador Facial,Higiene,5,,443.65
 4f5ff667-1bd0-4c81-bffd-19d3e45c4b9f,2023-12-17,Exfoliante Corporal,Higiene,4,82.41,329.64
-8b13d224-0599-495b-8a3a-1190443452da,2020-07-08,Esponja de BaÒo,Higiene,2,33.24,66.48
+8b13d224-0599-495b-8a3a-1190443452da,2020-07-08,Esponja de Ba√±o,Higiene,2,33.24,66.48
 e0cbfaea-f290-467f-ab36-cf01036d1853,2020-05-04,Gel para el Cabello,Higiene,4,98.38,393.52
 b2bddf98-3c2e-4765-835d-0d3137ddc909,2023-04-15,Cera para el Cabello,Higiene,1,,17.17
 2a731423-f742-4da4-a15c-0b65712e1164,2023-07-25,Acondicionador sin Enjuague,Higiene,15,62.33,934.95
-914eba9d-c608-47e5-8f84-3a1b2c7ab2e6,2021-09-22,TÛnico Facial,Higiene,4,58.49,233.96
+914eba9d-c608-47e5-8f84-3a1b2c7ab2e6,2021-09-22,T√≥nico Facial,Higiene,4,58.49,233.96
 9a64e86b-bc70-4e84-b439-9e8315ca21d2,2024-04-11,Mascarilla Facial,Higiene,16,71.21,1139.36
 83f5d218-8ea5-4ca9-b597-1b772c32a909,2022-09-12,Serum Facial,Higiene,18,23.65,425.7
 9d8f3c81-c5e4-4ddd-8e5f-528d341b100e,2023-03-05,Crema de Noche,Higiene,,20.09,180.81
-fe89e5b4-cb89-4d5e-ac60-4a5431a3da07,2022-06-07,Crema de DÌa,Higiene,8,65.34,522.72
+fe89e5b4-cb89-4d5e-ac60-4a5431a3da07,2022-06-07,Crema de D√≠a,Higiene,8,65.34,522.72
 899d2343-bf03-47e8-af14-0b1f4f9f2b59,2024-04-26,Aceite Corporal,Higiene,17,56,952
 cad9db99-4a33-4623-bcfb-0cd2f3ea870e,2023-10-15,Crema de Manos,Higiene,2,,190.76
-7b37c4a5-2e47-45be-8acd-e171f77919b1,2023-07-06,B·lsamo Labial,Higiene,6,92.84,557.04
+7b37c4a5-2e47-45be-8acd-e171f77919b1,2023-07-06,B√°lsamo Labial,Higiene,6,92.84,557.04
 3a9e0c9f-75d5-4bcd-8729-dcc599936da8,2022-01-30,Peine,Higiene,18,82.41,1483.38
 84981e93-576d-450e-b7ca-70516e21fa15,2022-06-08,Cepillo para el Cabello,Higiene,7,14.19,99.33
-c6436844-bcf5-495c-8c66-e010e81efb3d,2021-07-23,Corta˙Òas,Higiene,11,95.13,1046.43
-d5502c24-0aff-4cb0-b6ff-e5ef7442cacb,2020-02-22,Lima de UÒas,Higiene,16,37.43,598.88
-6fc76887-8a27-42d2-8f49-e97ecbecc667,2020-02-13,Tijeras para UÒas,Higiene,6,38.01,228.06
+c6436844-bcf5-495c-8c66-e010e81efb3d,2021-07-23,Corta√∫√±as,Higiene,11,95.13,1046.43
+d5502c24-0aff-4cb0-b6ff-e5ef7442cacb,2020-02-22,Lima de U√±as,Higiene,16,37.43,598.88
+6fc76887-8a27-42d2-8f49-e97ecbecc667,2020-02-13,Tijeras para U√±as,Higiene,6,38.01,228.06
 64c7e867-01d2-42b4-b7e4-d857f5232481,2021-08-26,Removedor de Esmalte,Higiene,17,80.04,1360.68
-7fdee8b5-302b-4563-aaf9-216f648a390c,2022-09-10,Esmalte de UÒas,Higiene,11,,312.18
-ce878945-5eab-46b9-83ad-8df14758f822,2022-09-06,Base para UÒas,Higiene,,26.32,263.2
-7ffba09d-99b8-4e29-bb33-0d4a5b0d2961,2023-04-21,LociÛn Corporal,Higiene,1,39.66,39.66
+7fdee8b5-302b-4563-aaf9-216f648a390c,2022-09-10,Esmalte de U√±as,Higiene,11,,312.18
+ce878945-5eab-46b9-83ad-8df14758f822,2022-09-06,Base para U√±as,Higiene,,26.32,263.2
+7ffba09d-99b8-4e29-bb33-0d4a5b0d2961,2023-04-21,Loci√≥n Corporal,Higiene,1,39.66,39.66
 e9c9164b-e126-44c6-bd42-6583cbcc1504,2022-08-29,Polvo Talco,Higiene,17,26.6,452.2
 69121265-4af4-41cb-a6d8-c726fbdae9e5,2023-03-31,Desodorante en Spray,Higiene,18,78.83,1418.94
 35ea46dc-d0c5-41df-8246-39713c7881ce,2021-08-07,Desodorante en Barra,Higiene,12,74.39,892.68
 1379597e-9b9e-4bd2-983d-6b212152b250,2022-01-09,Desodorante en Crema,Higiene,15,27.4,411
-9b51f8ae-909a-4d84-9846-4be346ce946c,2024-01-29,Sales de BaÒo,Higiene,12,84.73,1016.76
-1ebcf59a-169e-4177-a5af-db61b81e45b5,2022-09-12,JabÛn Õntimo,Higiene,3,69,207
+9b51f8ae-909a-4d84-9846-4be346ce946c,2024-01-29,Sales de Ba√±o,Higiene,12,84.73,1016.76
+1ebcf59a-169e-4177-a5af-db61b81e45b5,2022-09-12,Jab√≥n √çntimo,Higiene,3,69,207
 5645854e-0cdc-4b90-ad50-31ff180e1d0f,2020-09-02,Toallas Sanitarias,Higiene,7,56.85,397.95
 cd9a5878-f012-4402-a149-eaf756938ec7,2023-12-19,Tampones,Higiene,2,1.7,3.4
 614c09fc-b3f3-47c6-834e-4bd7a6ce8d5c,2022-11-27,Copas Menstruales,Higiene,4,96.05,384.2
-c1ef5bc1-159b-4ae6-b565-b598284c2ba2,2023-12-01,PaÒales para Adulto,Higiene,13,66.68,866.84
+c1ef5bc1-159b-4ae6-b565-b598284c2ba2,2023-12-01,Pa√±ales para Adulto,Higiene,13,66.68,866.84
 04c41fd2-db71-4f99-baaa-4ec6685d7e88,2022-02-28,Toallas de Tela Reutilizables,Higiene,17,,1095.48
-a551de1f-1316-49ff-9e99-2b179ac4026d,2020-02-22,Cepillo de Dientes ElÈctrico,Higiene,9,67.39,606.51
+a551de1f-1316-49ff-9e99-2b179ac4026d,2020-02-22,Cepillo de Dientes El√©ctrico,Higiene,9,67.39,606.51
 1b7d1864-11d2-4eca-8024-1df39a279ce2,2022-07-04,Irrigador Bucal,Higiene,,,1190.51
 6cba1cab-4e15-44bf-9999-52d2f88aba33,2022-10-10,Enjuague Bucal con Fluoruro,Higiene,1,12.25,12.25
 c918375c-59a6-4ca6-acf2-cf2880e5ea1a,2020-11-13,Cepillo Interdental,Higiene,13,3.29,42.77
@@ -649,14 +649,14 @@ cdbddbdb-46b6-41a5-8b62-92e514bb02b1,2020-02-13,Crema Antiedad,Higiene,7,34.18,2
 05513be8-33f4-46e9-9c6f-f173d716c9b1,2020-09-02,Contorno de Ojos,Higiene,9,78.26,704.34
 95850e01-874b-4a45-9089-fa9aba954ad8,2022-03-29,Agua Micelar,Higiene,16,74.64,1194.24
 e35e885b-e905-4d97-a0b9-8b1f9f7d94ad,2022-06-17,Leche Limpiadora,Higiene,,74.89,524.23
-7e5974c2-2d13-449c-a9b9-69946f34f62a,2020-11-01,TÛnico Astringente,Higiene,10,39.52,395.2
-0d69fab1-db9f-47bd-ac51-0cb16e777dda,2022-05-30,SÈrum Antioxidante,Higiene,2,,21.36
-6e251c00-1801-476f-ae54-8235cad50cd9,2022-09-08,SÈrum Hidratante,Higiene,4,14.54,58.16
-376f620e-d495-43ce-b69a-30ef96be444b,2021-05-27,SÈrum Antimanchas,Higiene,4,95.62,382.48
-916b3559-cff3-4d1c-8deb-3ba0e77b6f9d,2020-02-17,SÈrum Antienvejecimiento,Higiene,,28.19,507.42
+7e5974c2-2d13-449c-a9b9-69946f34f62a,2020-11-01,T√≥nico Astringente,Higiene,10,39.52,395.2
+0d69fab1-db9f-47bd-ac51-0cb16e777dda,2022-05-30,S√©rum Antioxidante,Higiene,2,,21.36
+6e251c00-1801-476f-ae54-8235cad50cd9,2022-09-08,S√©rum Hidratante,Higiene,4,14.54,58.16
+376f620e-d495-43ce-b69a-30ef96be444b,2021-05-27,S√©rum Antimanchas,Higiene,4,95.62,382.48
+916b3559-cff3-4d1c-8deb-3ba0e77b6f9d,2020-02-17,S√©rum Antienvejecimiento,Higiene,,28.19,507.42
 473d7ab5-b685-4657-b54c-93ff1c1b8058,2023-12-23,Ampollas Faciales,Higiene,2,98.55,197.1
-dec27f3f-c34e-4f0f-a70f-9736f9cf762c,2023-06-08,LociÛn Aftershave,Higiene,18,94.53,1701.54
-47b742ac-5b84-48ef-bd4a-b71f9166c2ae,2023-11-20,B·lsamo Aftershave,Higiene,17,94.69,1609.73
+dec27f3f-c34e-4f0f-a70f-9736f9cf762c,2023-06-08,Loci√≥n Aftershave,Higiene,18,94.53,1701.54
+47b742ac-5b84-48ef-bd4a-b71f9166c2ae,2023-11-20,B√°lsamo Aftershave,Higiene,17,94.69,1609.73
 504e841b-9ae7-4fb1-9272-52171d59596f,2022-09-11,Gel para Afeitar,Higiene,19,61.48,1168.12
 b605395a-e9f3-4cb5-a22a-16090d76ca51,2021-03-29,Espuma para el Cabello,Higiene,1,64.07,64.07
 ffcfbae2-43ba-4d23-80fb-c80ff7037a65,2022-06-22,Spray para el Cabello,Higiene,2,90.38,180.76
@@ -667,23 +667,23 @@ b1d58477-88fa-4f2b-a9bf-dd986088d9c6,2023-02-28,Aceite para el Cabello,Higiene,9
 a0b37b04-4737-49a5-8a25-345ed714f651,2023-05-27,Gel de Aloe Vera,Higiene,7,50.1,350.7
 0c5deadf-3c54-4c0d-9d07-2aead15d25b4,2021-10-20,Agua Termal,Higiene,6,41.51,249.06
 194dc94d-4ea0-4f74-9c68-c928d48cdd5e,2020-04-08,Spray Refrescante,Higiene,6,11.17,67.02
-a2825c76-7daf-4962-bc6b-f274d1f0088b,2020-09-03,JabÛn LÌquido,Higiene,19,61.21,1162.99
-63e0bba6-010b-410d-b9c0-d7b69a10271a,2020-08-12,JabÛn de Manos,Higiene,5,76.33,381.65
+a2825c76-7daf-4962-bc6b-f274d1f0088b,2020-09-03,Jab√≥n L√≠quido,Higiene,19,61.21,1162.99
+63e0bba6-010b-410d-b9c0-d7b69a10271a,2020-08-12,Jab√≥n de Manos,Higiene,5,76.33,381.65
 64c7387e-c254-46e5-8d23-272acb67dd63,2024-04-03,Pasta de Dientes,Higiene,6,99.62,597.72
 79afab65-c9f9-4865-960e-15afe235cdb6,2021-03-04,Cepillo de Dientes,Higiene,7,,429.87
 78da8da7-2335-489d-b990-224d1076a224,2023-07-13,Desodorante,Higiene,17,56.36,958.12
-c7bc85ad-1cbc-4fe2-b677-933dc0551324,2020-11-19,Champ˙,Higiene,8,98.07,784.56
+c7bc85ad-1cbc-4fe2-b677-933dc0551324,2020-11-19,Champ√∫,Higiene,8,98.07,784.56
 82cbe688-4c85-47ce-b7af-98f5c1b43ffc,2023-11-17,Acondicionador,Higiene,13,,128.83
 708ee058-c821-4b48-bcdb-064b3eff723a,2022-06-27,Gel de Ducha,Higiene,12,19.04,228.48
-d2ebf430-e178-4c64-aa53-15e4b19697ff,2022-02-17,Toallitas H˙medas,Higiene,9,56.88,511.92
-1f37ad1c-f216-4e5c-bfac-be28e229a174,2024-05-18,Papel HigiÈnico,Higiene,8,52.92,423.36
+d2ebf430-e178-4c64-aa53-15e4b19697ff,2022-02-17,Toallitas H√∫medas,Higiene,9,56.88,511.92
+1f37ad1c-f216-4e5c-bfac-be28e229a174,2024-05-18,Papel Higi√©nico,Higiene,8,52.92,423.36
 11aa3a74-0f5c-4024-86da-fe21f21cae86,2021-08-15,Enjuague Bucal,Higiene,17,33.95,577.15
 22827504-cbb8-4c77-9367-37a02faddfc5,2021-03-24,Hilo Dental,Higiene,,89.3,625.1
 83ed8d6a-f19b-4b32-a9ad-39146e1ce434,2024-02-05,Crema Hidratante,Higiene,17,97.39,1655.63
 6d191943-8fb3-47f3-b50d-dd3a06b2eb4c,2021-03-27,Desinfectante de Manos,Higiene,19,25.31,480.89
-d0aa04bf-201e-478b-887e-b955b6b9062c,2022-05-27,PaÒuelos Desechables,Higiene,16,58.43,934.88
-eb571ebc-2fa9-4a3f-820d-a8e736f7427e,2020-12-01,Bastoncillos de AlgodÛn,Higiene,9,9.97,89.73
-4b811c0a-c54d-42f1-8642-8d63da93e6fb,2023-12-26,JabÛn Antibacterial,Higiene,1,17.68,17.68
+d0aa04bf-201e-478b-887e-b955b6b9062c,2022-05-27,Pa√±uelos Desechables,Higiene,16,58.43,934.88
+eb571ebc-2fa9-4a3f-820d-a8e736f7427e,2020-12-01,Bastoncillos de Algod√≥n,Higiene,9,9.97,89.73
+4b811c0a-c54d-42f1-8642-8d63da93e6fb,2023-12-26,Jab√≥n Antibacterial,Higiene,1,17.68,17.68
 b46fd1f8-f3cc-440d-adc3-ed74884929e3,2023-02-16,Gel Antibacterial,Higiene,2,57.6,115.2
 6a667967-c60c-4905-a9f2-0be6f4057d79,2021-05-25,Protector Solar,Higiene,3,44.07,132.21
 ea33ba3a-097d-49ce-8bd1-b2447bf7b628,2023-05-18,Crema para Afeitar,Higiene,9,24.71,222.39
@@ -693,39 +693,39 @@ ea33ba3a-097d-49ce-8bd1-b2447bf7b628,2023-05-18,Crema para Afeitar,Higiene,9,24.
 98a2e972-36de-4078-bbfc-30212459a5d3,2022-07-13,Desmaquillante de Ojos,Higiene,11,57.25,629.75
 7dc608c1-fa03-4433-884d-8ae91afe1686,2020-07-15,Limpiador Facial,Higiene,14,92.59,1296.26
 36984afa-7e20-472b-8bf4-0bb3415d7e74,2020-12-05,Exfoliante Corporal,Higiene,17,85.9,1460.3
-6b6910dc-a8e0-4845-85da-3d27a2dd0de2,2024-05-01,Esponja de BaÒo,Higiene,5,66.51,332.55
+6b6910dc-a8e0-4845-85da-3d27a2dd0de2,2024-05-01,Esponja de Ba√±o,Higiene,5,66.51,332.55
 b42f9cff-7f01-42cc-a37a-0e6024bb29df,2023-03-05,Gel para el Cabello,Higiene,2,97.8,195.6
 265276b2-17ee-472f-ac15-d0c74c09e6db,2020-10-30,Cera para el Cabello,Higiene,2,54.01,108.02
 9d5c75d4-c714-41d1-b6f7-d9c3e185c84f,2021-06-17,Acondicionador sin Enjuague,Higiene,8,74.4,595.2
-7b25d16c-c4d2-49f9-b969-ab36efd42daf,2022-09-03,TÛnico Facial,Higiene,14,46.17,646.38
+7b25d16c-c4d2-49f9-b969-ab36efd42daf,2022-09-03,T√≥nico Facial,Higiene,14,46.17,646.38
 dff2d422-5a11-46a5-a95b-59a5abc03f47,2021-02-06,Mascarilla Facial,Higiene,2,63.28,126.56
 8955a992-b149-4fe4-a707-d9c12c3328c0,2021-12-25,Serum Facial,Higiene,1,,86.29
 ed11192f-d7c8-4048-99fa-621297edb6c4,2023-10-11,Crema de Noche,Higiene,1,17.79,17.79
-0b1db61f-344b-40fd-bf38-b7ce94d58c49,2022-10-30,Crema de DÌa,Higiene,2,54.31,108.62
+0b1db61f-344b-40fd-bf38-b7ce94d58c49,2022-10-30,Crema de D√≠a,Higiene,2,54.31,108.62
 d146fe06-1726-4810-af7d-ac580b07f97b,2021-04-20,Aceite Corporal,Higiene,9,71.14,640.26
 4a710a7b-9da6-46c2-b486-3b6315057463,2020-10-08,Crema de Manos,Higiene,13,84.79,1102.27
-63a8a888-5100-42d7-8461-0db69be77a9e,2023-04-22,B·lsamo Labial,Higiene,2,40.51,81.02
+63a8a888-5100-42d7-8461-0db69be77a9e,2023-04-22,B√°lsamo Labial,Higiene,2,40.51,81.02
 b3729615-ccd7-4200-94cd-c8f4ae3eaefb,2022-06-23,Peine,Higiene,,62.86,62.86
 ad434baa-35e8-44de-8864-8c5881507832,2022-01-17,Cepillo para el Cabello,Higiene,19,38.03,722.57
-a8d32be2-5cd4-4d26-be50-3613b1faa6b0,2023-12-02,Corta˙Òas,Higiene,12,94.74,1136.88
-4331c2f5-8f0c-4d95-9349-c3ef2f34ebdc,2024-02-14,Lima de UÒas,Higiene,18,8.19,147.42
-89d75cd8-550b-4c74-8c3d-ec6d130d6196,2020-05-12,Tijeras para UÒas,Higiene,12,70.96,851.52
+a8d32be2-5cd4-4d26-be50-3613b1faa6b0,2023-12-02,Corta√∫√±as,Higiene,12,94.74,1136.88
+4331c2f5-8f0c-4d95-9349-c3ef2f34ebdc,2024-02-14,Lima de U√±as,Higiene,18,8.19,147.42
+89d75cd8-550b-4c74-8c3d-ec6d130d6196,2020-05-12,Tijeras para U√±as,Higiene,12,70.96,851.52
 276eef17-db66-413e-9168-d1801a0e793a,2023-01-29,Removedor de Esmalte,Higiene,8,5.26,42.08
-e82fc1c3-c807-4193-9e65-cf4485246503,2020-01-05,Esmalte de UÒas,Higiene,,55.19,662.28
-cdfcf6e3-a710-4dc8-9574-8339f07cb210,2024-05-03,Base para UÒas,Higiene,19,14.29,271.51
-a782a501-f527-43dd-a108-ca16f8723df7,2023-07-28,LociÛn Corporal,Higiene,18,33.93,610.74
+e82fc1c3-c807-4193-9e65-cf4485246503,2020-01-05,Esmalte de U√±as,Higiene,,55.19,662.28
+cdfcf6e3-a710-4dc8-9574-8339f07cb210,2024-05-03,Base para U√±as,Higiene,19,14.29,271.51
+a782a501-f527-43dd-a108-ca16f8723df7,2023-07-28,Loci√≥n Corporal,Higiene,18,33.93,610.74
 87dece69-cddb-4017-88d4-94add50a16d3,2020-10-16,Polvo Talco,Higiene,19,53.63,1018.97
 6dc820e1-8cf5-4af6-8006-51269ffe8e00,2020-04-16,Desodorante en Spray,Higiene,13,72.51,942.63
 fb976441-c795-4197-94c4-5f8b3210b691,2020-06-18,Desodorante en Barra,Higiene,3,41.21,123.63
 b04ec724-3ea5-448c-949c-06d4f5063572,2023-05-09,Desodorante en Crema,Higiene,17,44.29,752.93
-b08fdbff-bfb5-46e5-aabe-f2790a0ccc1f,2022-04-13,Sales de BaÒo,Higiene,14,77.74,1088.36
-efc37fec-96eb-45cf-ae13-7fe09460160e,2022-10-04,JabÛn Õntimo,Higiene,3,63.13,189.39
+b08fdbff-bfb5-46e5-aabe-f2790a0ccc1f,2022-04-13,Sales de Ba√±o,Higiene,14,77.74,1088.36
+efc37fec-96eb-45cf-ae13-7fe09460160e,2022-10-04,Jab√≥n √çntimo,Higiene,3,63.13,189.39
 7f32b3ff-bf4c-43bf-a21b-33564a3060f6,2023-05-14,Toallas Sanitarias,Higiene,7,49.25,344.75
 80e0d96b-82e4-4afb-b5fe-b4961ef209fb,2022-06-02,Tampones,Higiene,3,15.8,47.4
 65e2b0f1-9bd8-4f46-a1b8-a28a6cdf9748,2021-05-28,Copas Menstruales,Higiene,14,73.71,1031.94
-0547443a-b50c-4612-8b17-c667d74a59d2,2023-03-27,PaÒales para Adulto,Higiene,1,26.69,26.69
+0547443a-b50c-4612-8b17-c667d74a59d2,2023-03-27,Pa√±ales para Adulto,Higiene,1,26.69,26.69
 474c33ce-cebf-412f-a29d-52e9b9f883c3,2021-08-09,Toallas de Tela Reutilizables,Higiene,8,13.03,104.24
-3b777d12-410b-4852-aae6-07bcf36ce0b7,2020-04-23,Cepillo de Dientes ElÈctrico,Higiene,18,4.3,77.4
+3b777d12-410b-4852-aae6-07bcf36ce0b7,2020-04-23,Cepillo de Dientes El√©ctrico,Higiene,18,4.3,77.4
 67876513-5a01-4ff2-94b0-f0bd7781a197,2020-03-10,Irrigador Bucal,Higiene,6,19.58,117.48
 198ac66a-b075-4c5f-b315-2583abb7e5ec,2021-06-10,Enjuague Bucal con Fluoruro,Higiene,4,67.5,270
 d52789a3-6661-41b7-a6f9-33e58d2d8768,2021-08-23,Cepillo Interdental,Higiene,2,78.2,156.4
@@ -739,14 +739,14 @@ e1209a13-3413-4904-ad3f-d00dc6ab35a5,2024-04-24,Mascarilla Hidratante,Higiene,10
 62c9da9a-4786-484f-bf33-1b4cd04e1601,2020-05-18,Contorno de Ojos,Higiene,2,45.52,91.04
 e24283aa-22c6-4d8d-8870-cdcf8d088943,2023-04-08,Agua Micelar,Higiene,11,46.89,515.79
 00711689-d0b8-45ee-a365-03e609b10b9d,2022-01-21,Leche Limpiadora,Higiene,,43.48,826.12
-2f8bc25b-ca5d-4b06-9334-00497e4a8a7a,2023-05-13,TÛnico Astringente,Higiene,15,37.65,564.75
-fadfa32d-7fb2-486b-9015-70ba4324966d,2022-04-24,SÈrum Antioxidante,Higiene,3,,226.29
-435d84be-3308-4b1a-b4fc-96e2f8dc6b47,2023-09-13,SÈrum Hidratante,Higiene,19,11.71,222.49
-cb329ebc-9d62-4ae9-9b4d-0fcb2eddcbd6,2021-12-26,SÈrum Antimanchas,Higiene,2,66.67,133.34
-faae5990-6e02-444c-b2f5-38c060f337c3,2021-02-08,SÈrum Antienvejecimiento,Higiene,,31.41,31.41
+2f8bc25b-ca5d-4b06-9334-00497e4a8a7a,2023-05-13,T√≥nico Astringente,Higiene,15,37.65,564.75
+fadfa32d-7fb2-486b-9015-70ba4324966d,2022-04-24,S√©rum Antioxidante,Higiene,3,,226.29
+435d84be-3308-4b1a-b4fc-96e2f8dc6b47,2023-09-13,S√©rum Hidratante,Higiene,19,11.71,222.49
+cb329ebc-9d62-4ae9-9b4d-0fcb2eddcbd6,2021-12-26,S√©rum Antimanchas,Higiene,2,66.67,133.34
+faae5990-6e02-444c-b2f5-38c060f337c3,2021-02-08,S√©rum Antienvejecimiento,Higiene,,31.41,31.41
 000360b0-0207-419a-a487-0ba07cd324bc,2022-02-18,Ampollas Faciales,Higiene,4,91.59,366.36
-3a7921be-76ac-4b2b-89b9-0b901d8ecedd,2022-07-10,LociÛn Aftershave,Higiene,8,4.29,34.32
-0852307a-6447-43c5-bfbf-21999b919adc,2023-05-05,B·lsamo Aftershave,Higiene,1,58.23,58.23
+3a7921be-76ac-4b2b-89b9-0b901d8ecedd,2022-07-10,Loci√≥n Aftershave,Higiene,8,4.29,34.32
+0852307a-6447-43c5-bfbf-21999b919adc,2023-05-05,B√°lsamo Aftershave,Higiene,1,58.23,58.23
 7e05a071-2b8b-40bb-813a-f9f5b044bca1,2024-04-22,Gel para Afeitar,Higiene,8,54.18,433.44
 4a57b87d-fdb5-4007-8b67-bd4d5e1544cf,2022-07-28,Espuma para el Cabello,Higiene,1,60.49,60.49
 078d15f2-8f0f-4f38-bce7-50e538195c9c,2022-03-27,Spray para el Cabello,Higiene,18,42.81,770.58
@@ -757,45 +757,45 @@ fb167420-2237-423c-b04a-8b2140ccad5e,2021-10-18,Tratamiento para el Cabello,Higi
 8a815482-de72-4894-85dd-207c2a1149c1,2022-10-16,Gel de Aloe Vera,Higiene,13,32.99,428.87
 d2ed6d5a-a043-48af-9223-d6711dbebc05,2021-01-27,Agua Termal,Higiene,19,84.83,1611.77
 337f001c-0dba-47f5-ba01-361d4ab97279,2024-01-29,Spray Refrescante,Higiene,18,5.77,103.86
-15aad4ee-a428-447f-ae49-f67e71d699d5,2021-02-24,JabÛn LÌquido,Higiene,2,53.89,107.78
-f56d48a0-28fc-4a2b-b19b-df7386a82b5a,2022-04-20,JabÛn de Manos,Higiene,16,,1291.36
+15aad4ee-a428-447f-ae49-f67e71d699d5,2021-02-24,Jab√≥n L√≠quido,Higiene,2,53.89,107.78
+f56d48a0-28fc-4a2b-b19b-df7386a82b5a,2022-04-20,Jab√≥n de Manos,Higiene,16,,1291.36
 4930d85c-634e-4406-8d84-6be9f1dcf7a6,2024-04-04,Pasta de Dientes,Higiene,5,94.68,473.4
 d8bc28cb-f3a9-463f-a853-6f649ee70a55,2020-07-09,Cepillo de Dientes,Higiene,19,57.11,1085.09
 3478bc4e-67d0-4722-aa5c-a300de12ffa6,2021-08-09,Desodorante,Higiene,1,68.52,68.52
-bb40d42e-1757-4124-9c95-7afb725c97cf,2021-06-24,Champ˙,Higiene,3,,216
+bb40d42e-1757-4124-9c95-7afb725c97cf,2021-06-24,Champ√∫,Higiene,3,,216
 5b0f52d9-22ae-4cb4-9200-eed7ccdf6f4c,2023-02-08,Acondicionador,Higiene,18,8.9,160.2
 2418e3c0-4359-4da3-a971-0a164aa0c06e,2024-06-05,Gel de Ducha,Higiene,15,76.9,1153.5
-59c1246d-ff65-46df-9c6a-8507fdef684a,2020-10-21,Toallitas H˙medas,Higiene,14,63.35,886.9
-9354791e-13ed-468c-86f1-3f9f5a6311be,2023-06-25,Papel HigiÈnico,Higiene,1,54.35,54.35
+59c1246d-ff65-46df-9c6a-8507fdef684a,2020-10-21,Toallitas H√∫medas,Higiene,14,63.35,886.9
+9354791e-13ed-468c-86f1-3f9f5a6311be,2023-06-25,Papel Higi√©nico,Higiene,1,54.35,54.35
 7c484403-51f3-495a-8d07-2cea5c31bb34,2023-06-25,Enjuague Bucal,Higiene,4,32.58,130.32
 87385eac-05e9-4812-8370-9e418b8fa00c,2021-11-28,Hilo Dental,Higiene,7,60.18,421.26
 bc9391a9-98dc-4a2a-8307-7c0356cb7ffb,2020-07-08,Crema Hidratante,Higiene,14,78.83,1103.62
 07769389-f059-493c-8952-7053e4a1b4ac,2022-04-09,Desinfectante de Manos,Higiene,19,43.81,832.39
-264f275d-8896-4ee5-8d8d-c87e6e3851f4,2020-02-17,PaÒuelos Desechables,Higiene,9,,507.69
-78eb4318-2078-4309-89f7-2823b81c2fed,2023-04-11,Bastoncillos de AlgodÛn,Higiene,13,43.52,565.76
-27fedbaf-264a-4e11-83b8-ef3c3aaa3ccf,2023-10-13,JabÛn Antibacterial,Higiene,14,50.75,710.5
+264f275d-8896-4ee5-8d8d-c87e6e3851f4,2020-02-17,Pa√±uelos Desechables,Higiene,9,,507.69
+78eb4318-2078-4309-89f7-2823b81c2fed,2023-04-11,Bastoncillos de Algod√≥n,Higiene,13,43.52,565.76
+27fedbaf-264a-4e11-83b8-ef3c3aaa3ccf,2023-10-13,Jab√≥n Antibacterial,Higiene,14,50.75,710.5
 e6e18014-b632-4e0c-9e82-7d01a735449e,2020-10-24,Gel Antibacterial,Higiene,18,14.63,263.34
 f2c8e81c-308c-4b08-927f-30e63ea1847d,2021-11-23,Protector Solar,Higiene,15,47.33,709.95
 d738320e-c4a7-4f7c-80c9-c4551d83088e,2023-10-08,Crema para Afeitar,Higiene,10,14.28,142.8
 148617af-3feb-4330-9673-008bff077bdb,2023-01-21,Espuma de Afeitar,Higiene,17,51.57,876.69
 0eca48ac-1aba-4131-9eb8-9e9f5761539f,2020-07-20,Maquinilla de Afeitar,Higiene,5,20.91,104.55
 5cded2f3-2998-400a-a2aa-f8be76ed6279,2020-08-28,Toallitas Desmaquillantes,Higiene,15,96.45,1446.75
-b6dc77cb-7312-4c35-b6d1-71cc7ffa1116,2020-09-25,Camiseta de AlgodÛn,Ropa,14,32.26,451.64
+b6dc77cb-7312-4c35-b6d1-71cc7ffa1116,2020-09-25,Camiseta de Algod√≥n,Ropa,14,32.26,451.64
 be9fb542-1d25-40be-9e44-37c66379765f,2022-05-23,Camisa de Vestir,Ropa,4,,346.32
 9a27c802-ffd1-4de8-a340-6af8f54d8fb6,2020-06-10,Pantalones Vaqueros,Ropa,11,79.59,875.49
-74556e1a-50b7-437f-a264-b4a445880114,2023-05-28,Falda L·piz,Ropa,,53.71,268.55
+74556e1a-50b7-437f-a264-b4a445880114,2023-05-28,Falda L√°piz,Ropa,,53.71,268.55
 40db434a-d191-4fe4-9106-c71fea1ddd16,2021-11-22,Vestido de Noche,Ropa,6,11.6,69.6
 3f517042-3a62-48ca-8120-0bd023a1912e,2021-06-18,Chaqueta de Cuero,Ropa,3,82.45,247.35
 752bd599-5077-4a5c-8851-f18304f37386,2022-03-18,Abrigo de Lana,Ropa,2,58.99,117.98
-d6a2035c-7f04-4205-8e1f-56cb5a66db35,2024-03-08,SuÈter de Punto,Ropa,18,19.39,349.02
+d6a2035c-7f04-4205-8e1f-56cb5a66db35,2024-03-08,Su√©ter de Punto,Ropa,18,19.39,349.02
 dc0e090a-cd8a-4ec3-9f52-4737d76876ff,2021-01-08,Sudadera con Capucha,Ropa,9,72.21,649.89
-c6001274-775d-4afe-8cb4-68e873f62625,2024-05-06,Ch·ndal,Ropa,12,19.11,229.32
+c6001274-775d-4afe-8cb4-68e873f62625,2024-05-06,Ch√°ndal,Ropa,12,19.11,229.32
 7ceaad5d-7919-4a47-a278-1656e199a753,2020-07-21,Leggings Deportivos,Ropa,7,63.08,441.56
-7520471d-f36a-45ca-975e-66f598a5131b,2020-06-15,Traje de BaÒo,Ropa,8,96.75,774
-200ed9d9-9b72-4eba-812d-f79894f60dd8,2022-01-04,BaÒador de Hombre,Ropa,14,95.78,1340.92
+7520471d-f36a-45ca-975e-66f598a5131b,2020-06-15,Traje de Ba√±o,Ropa,8,96.75,774
+200ed9d9-9b72-4eba-812d-f79894f60dd8,2022-01-04,Ba√±ador de Hombre,Ropa,14,95.78,1340.92
 d91c97bc-2deb-435d-8bab-dca1049def68,2023-07-23,Blusa de Seda,Ropa,11,15.57,171.27
 d380be91-c66d-47b6-b8d2-eaa6138986f7,2023-03-25,Polo de Manga Corta,Ropa,2,11.08,22.16
-13d91cc2-181d-4086-b519-2f0a44fea680,2020-12-22,C·rdigan,Ropa,8,38.57,308.56
+13d91cc2-181d-4086-b519-2f0a44fea680,2020-12-22,C√°rdigan,Ropa,8,38.57,308.56
 398a7dce-1c3e-4933-a4e6-22d8ba78eb84,2023-02-15,Chaqueta Vaquera,Ropa,16,78.15,1250.4
 8f59dbc7-bf36-48cf-9b35-3b577d6aa184,2024-01-08,Gabardina,Ropa,10,15.93,159.3
 39745189-b24d-41fe-8767-9d7c8ad3273f,2024-05-12,Chaleco Acolchado,Ropa,6,19.69,118.14
@@ -804,14 +804,14 @@ d380be91-c66d-47b6-b8d2-eaa6138986f7,2023-03-25,Polo de Manga Corta,Ropa,2,11.08
 95a500ad-c6cc-4a31-b08d-204a1dad3562,2022-08-19,Pantalones Cargo,Ropa,1,98.02,98.02
 74a911e9-fa95-4fb2-b265-2f1f0c6e9177,2020-01-21,Mono de Trabajo,Ropa,18,15.8,284.4
 7a292b95-0dd7-42fe-803b-96dc70dca17b,2020-01-25,Vestido de Verano,Ropa,4,6.57,26.28
-b1e8f8aa-290b-4870-bf9c-5c1cd2c29520,2022-03-14,Pijama de AlgodÛn,Ropa,19,86.47,1642.93
-db334a48-6f90-4814-8e5d-218c3daa9184,2021-02-02,Bata de BaÒo,Ropa,,89.61,716.88
-863bb3db-c82f-4744-a668-be0f84f7649c,2021-02-26,Ropa Interior TÈrmica,Ropa,12,,653.64
+b1e8f8aa-290b-4870-bf9c-5c1cd2c29520,2022-03-14,Pijama de Algod√≥n,Ropa,19,86.47,1642.93
+db334a48-6f90-4814-8e5d-218c3daa9184,2021-02-02,Bata de Ba√±o,Ropa,,89.61,716.88
+863bb3db-c82f-4744-a668-be0f84f7649c,2021-02-26,Ropa Interior T√©rmica,Ropa,12,,653.64
 254a509b-386f-4bf1-a1ac-f2f1726965da,2022-06-07,Calcetines de Lana,Ropa,12,42.92,515.04
 f535655d-d266-4f15-8c00-58d9e3eb7463,2021-02-21,Guantes de Cuero,Ropa,16,96.21,1539.36
 94103286-ff7b-4cf9-8db0-60c008587e51,2023-07-18,Bufanda de Cachemira,Ropa,10,78.95,789.5
 acdcf8fd-8e0e-4f62-8569-d34a203bb974,2023-04-19,Sombrero de Paja,Ropa,13,43.84,569.92
-b1a71bb1-7ff8-4945-aa76-2bb5a3a46004,2020-12-18,Gorra de BÈisbol,Ropa,12,,488.16
+b1a71bb1-7ff8-4945-aa76-2bb5a3a46004,2020-12-18,Gorra de B√©isbol,Ropa,12,,488.16
 7288b236-ce21-448d-90ab-a9039575620d,2023-02-25,Ropa Deportiva,Ropa,14,89.73,1256.22
 89dccddd-c92c-426d-b605-96f2bf4d0ada,2024-03-19,Medias de Nylon,Ropa,12,,239.04
 fde4293d-b448-4976-b524-f250e32660aa,2020-06-07,Calzoncillos Boxer,Ropa,7,26.78,187.46
@@ -824,9 +824,9 @@ b23f2177-a255-47a0-9b89-b77011647e25,2023-08-09,Sujetador Deportivo,Ropa,,2.63,1
 ad70773d-b574-4815-8ad1-e6425508c1ad,2020-02-11,Zapatillas de Deporte,Ropa,,44.59,624.26
 1d436eaf-9571-49f0-bc76-97a620b981e0,2021-01-11,Tacones Altos,Ropa,3,14.21,42.63
 7a50b04d-2080-49a7-aebc-4bfd947c9028,2023-05-07,Mocasines,Ropa,,60.31,542.79
-599b06ca-e571-405b-83ca-cb8b14ea1027,2022-09-25,CamisÛn,Ropa,3,89.32,267.96
+599b06ca-e571-405b-83ca-cb8b14ea1027,2022-09-25,Camis√≥n,Ropa,3,89.32,267.96
 1d46f9e9-eda4-43c3-b9e7-54df16995e02,2020-08-29,Babydoll,Ropa,1,99.14,99.14
-4c16a1b4-c947-4a8d-a3d2-6b3561f66e3a,2021-12-06,CinturÛn de Cuero,Ropa,4,37.07,148.28
+4c16a1b4-c947-4a8d-a3d2-6b3561f66e3a,2021-12-06,Cintur√≥n de Cuero,Ropa,4,37.07,148.28
 c6609b7a-ab88-4dcf-b0e6-733a63a4d7e6,2023-04-07,Tirantes,Ropa,14,92.85,1299.9
 fd03e99b-8846-472d-a702-4ea846a16369,2022-03-13,Calcetas Altas,Ropa,18,69.5,1251
 364c5eed-a7bd-4a72-957d-cbd5b97184a0,2022-05-23,Calzas,Ropa,10,45.65,456.5
@@ -839,15 +839,15 @@ d6ec8987-e1ee-4cf0-8e26-be00915aa652,2021-02-19,Polo de Manga Larga,Ropa,7,2.13,
 860d333c-4218-4762-a251-d66a04f38ace,2020-11-20,Camiseta de Tirantes,Ropa,,98.92,692.44
 7fe94300-f75d-4a8e-8f2f-93ff002a2caf,2021-01-18,Body,Ropa,7,69.48,486.36
 d3387052-6689-4013-aa2d-3953b8c61a05,2020-12-13,Top Deportivo,Ropa,12,13.21,158.52
-4c7b68e9-573e-4fc3-8d41-43a8fe03c71f,2023-09-05,Pantalones de Ch·ndal,Ropa,8,31.47,251.76
+4c7b68e9-573e-4fc3-8d41-43a8fe03c71f,2023-09-05,Pantalones de Ch√°ndal,Ropa,8,31.47,251.76
 2d02cfeb-3292-4f94-b278-1fd71e3bf4da,2023-09-01,Falda Plisada,Ropa,13,36.71,477.23
-59ecd213-7775-43f2-b9c5-2eb280bd24df,2023-08-15,Vestido de CÛctel,Ropa,,92.03,644.21
+59ecd213-7775-43f2-b9c5-2eb280bd24df,2023-08-15,Vestido de C√≥ctel,Ropa,,92.03,644.21
 27930cc6-39a6-40c1-a997-8674b6ba426c,2023-04-26,Abrigo Impermeable,Ropa,8,55.14,441.12
 0f4fdaec-6aac-4324-8710-a6ed406c00a1,2020-06-01,Poncho,Ropa,14,35.24,493.36
 1dab7a15-b42d-414b-b8ef-0a60f9a31b0f,2022-11-08,Chaleco de Lana,Ropa,13,,405.6
 8fa6755b-8ae2-43e3-a261-6dce8593a67a,2022-09-12,Gorro de Lana,Ropa,4,92.64,370.56
 b35fccc2-f025-4cec-aecf-c2e1dc43e748,2021-02-17,Guantes de Invierno,Ropa,10,18.9,189
-31227c06-b44a-4bdb-96ab-04a9d61fb8bb,2020-09-14,PaÒuelo de Seda,Ropa,,62.87,440.09
+31227c06-b44a-4bdb-96ab-04a9d61fb8bb,2020-09-14,Pa√±uelo de Seda,Ropa,,62.87,440.09
 8fdd5c03-71b7-44e9-84d8-9f1e0267fcbb,2022-08-28,Traje de Hombre,Ropa,9,65.38,588.42
 e6162cea-61af-4a8d-be14-e1e0873d89b0,2020-02-29,Chal,Ropa,2,20.95,41.9
 3968e678-b094-4eae-9a36-5c5929fb1dd5,2021-12-27,Kimono,Ropa,19,6.9,131.1
@@ -863,38 +863,38 @@ c9bb4eb9-f08a-4934-8e88-c0ef8265a548,2022-08-02,Calcetines de Deporte,Ropa,16,90
 8b1a5ad5-28a1-4a7f-9e19-eb0baa139f34,2024-02-26,Tanga,Ropa,18,52.14,938.52
 a3736ce4-feb2-4fe3-9261-516b2ac95a2d,2022-03-11,Sujetador de Encaje,Ropa,,29.83,178.98
 f59f0518-2a65-4b9b-9525-8820bb92e4fd,2022-08-20,Pijama de Seda,Ropa,1,89.81,89.81
-70a65951-158c-4d9a-ae13-c3c9bd5bf3b0,2022-08-31,Ropa Interior de AlgodÛn,Ropa,11,77.42,851.62
+70a65951-158c-4d9a-ae13-c3c9bd5bf3b0,2022-08-31,Ropa Interior de Algod√≥n,Ropa,11,77.42,851.62
 a1512cf8-d6b5-4fea-936f-d022c196b21a,2021-02-13,Batas de Dormir,Ropa,18,75.7,1362.6
 b22d662c-d93c-4445-a006-a4b18f6c1b04,2022-09-19,Pantalones Cortos,Ropa,3,,44.19
 8c51d485-8b8d-430a-8863-09df4418be55,2020-12-07,Chaleco Reflectante,Ropa,7,,286.37
 aba3d8d4-7f90-44b6-9606-e15128d8b804,2022-09-29,Mallas de Running,Ropa,14,97.4,1363.6
-75a8de0b-7a62-4ef2-b93e-3b34834721df,2021-06-14,Camiseta TÈrmica,Ropa,8,71.6,572.8
+75a8de0b-7a62-4ef2-b93e-3b34834721df,2021-06-14,Camiseta T√©rmica,Ropa,8,71.6,572.8
 d4134d61-0ba3-4b25-9900-47ac4f93b9f8,2020-06-16,Pantalones de Yoga,Ropa,14,16.41,229.74
 553da008-2e5d-47b4-ae66-abdd43eb634b,2021-08-16,Blusa de Encaje,Ropa,10,78.22,782.2
 89062a9b-5992-448b-b81d-d53591a770e9,2023-08-13,Bata de Casa,Ropa,14,58.8,823.2
 40fe6e2f-9ce9-4ba7-99be-333f6f8cf2ff,2022-06-15,Guantes de Trabajo,Ropa,5,4.42,22.1
 bd509442-d1d5-4bf0-a4ad-79fbf33798ec,2021-01-26,Zapatillas de Estar por Casa,Ropa,1,77.61,77.61
 bb439a40-0064-4485-9ab9-ad001fd801f7,2021-12-10,Botines,Ropa,,32.03,64.06
-e4cabcf2-8250-4e54-9160-da9a1a7dbc5c,2021-03-08,Zapatos de TacÛn,Ropa,8,16.67,133.36
+e4cabcf2-8250-4e54-9160-da9a1a7dbc5c,2021-03-08,Zapatos de Tac√≥n,Ropa,8,16.67,133.36
 d447509b-15c4-4211-98c7-3acc2d6af064,2023-05-24,Zapatos de Vestir,Ropa,4,52.3,209.2
 2f860e19-985f-4493-920d-43fdb9bea5ab,2022-11-01,Foulard,Ropa,8,85.24,681.92
 e3701094-d818-4041-9b8b-b9f196adbcaa,2024-02-12,Cinta para el Pelo,Ropa,17,64.28,1092.76
-8e4f249d-0b38-4335-8033-ae59ae91f530,2021-11-30,Camiseta de AlgodÛn,Ropa,,20.83,354.11
+8e4f249d-0b38-4335-8033-ae59ae91f530,2021-11-30,Camiseta de Algod√≥n,Ropa,,20.83,354.11
 6537b0cc-6048-45a0-8ad4-b06e5f528aa3,2021-09-14,Camisa de Vestir,Ropa,11,82.23,904.53
 0da099d4-6f7b-47d9-98bf-96ed1cbc8d37,2024-06-09,Pantalones Vaqueros,Ropa,13,66.24,861.12
-d86fa7a4-ff1f-43ff-8e29-17f927f785e1,2021-07-26,Falda L·piz,Ropa,15,31.36,470.4
+d86fa7a4-ff1f-43ff-8e29-17f927f785e1,2021-07-26,Falda L√°piz,Ropa,15,31.36,470.4
 adb77f6e-3df2-4666-9bbb-9bff97be551d,2024-01-26,Vestido de Noche,Ropa,,7.68,84.48
 41980f9e-edf8-4d69-8e42-a45b2b4f18b3,2021-07-15,Chaqueta de Cuero,Ropa,,81.07,810.7
 97a8bff1-3acf-4d71-8bca-ee80cd777919,2021-12-23,Abrigo de Lana,Ropa,6,95.74,574.44
-71566215-440a-406f-a602-1335f182a72d,2022-06-01,SuÈter de Punto,Ropa,14,88.32,1236.48
+71566215-440a-406f-a602-1335f182a72d,2022-06-01,Su√©ter de Punto,Ropa,14,88.32,1236.48
 df3267ea-12bc-4543-a097-f9358e99c873,2022-04-12,Sudadera con Capucha,Ropa,,41.38,744.84
-2b623126-da29-4017-bc82-30c0353c9df1,2024-04-29,Ch·ndal,Ropa,17,48.26,820.42
+2b623126-da29-4017-bc82-30c0353c9df1,2024-04-29,Ch√°ndal,Ropa,17,48.26,820.42
 18aa88f2-8178-455d-9d57-2441a3a062bc,2022-04-29,Leggings Deportivos,Ropa,15,74.29,1114.35
-e04cb6e9-8aea-4b68-a70e-cd9fb4486041,2020-06-19,Traje de BaÒo,Ropa,14,90.07,1260.98
-51feb3d8-2bd5-4af8-af43-5b17255012da,2022-01-30,BaÒador de Hombre,Ropa,16,54.1,865.6
+e04cb6e9-8aea-4b68-a70e-cd9fb4486041,2020-06-19,Traje de Ba√±o,Ropa,14,90.07,1260.98
+51feb3d8-2bd5-4af8-af43-5b17255012da,2022-01-30,Ba√±ador de Hombre,Ropa,16,54.1,865.6
 a29ee30e-2d32-4f28-b1b7-fccc6541ce0e,2022-12-01,Blusa de Seda,Ropa,12,56.89,682.68
 a7ff9104-8603-4c66-867a-ec2071aaa027,2022-02-26,Polo de Manga Corta,Ropa,,29.25,29.25
-432d4f8d-83a2-4116-9ee9-84a7d41ed544,2021-09-26,C·rdigan,Ropa,3,22.66,67.98
+432d4f8d-83a2-4116-9ee9-84a7d41ed544,2021-09-26,C√°rdigan,Ropa,3,22.66,67.98
 180a86d6-6614-4287-b9e9-4567139d6d26,2023-03-19,Chaqueta Vaquera,Ropa,6,97.21,583.26
 a31581ed-e0bb-4053-bd6a-675696fef1ee,2021-08-16,Gabardina,Ropa,9,83.93,755.37
 67370be1-7431-46a8-8f3a-8e54e129a1b0,2023-11-28,Chaleco Acolchado,Ropa,14,82.09,1149.26
@@ -903,14 +903,14 @@ f475a960-0d51-4ade-9eef-daeebada1b89,2022-07-21,Camiseta sin Mangas,Ropa,3,50.29
 14284d7f-47a9-4a73-9256-f2b9556fb64b,2022-11-11,Pantalones Cargo,Ropa,1,4.3,4.3
 f8063f63-ce64-4c09-a813-6a265e99ecc9,2022-10-27,Mono de Trabajo,Ropa,9,3.82,34.38
 8e9a4707-67ff-484a-8c9e-4cab5e69739c,2023-08-19,Vestido de Verano,Ropa,,,882.64
-f8da731a-30cb-472a-af4a-57ec3d6e7b26,2023-02-07,Pijama de AlgodÛn,Ropa,16,4.12,65.92
-6ebcd8bf-a327-4c25-bddb-8646baa1fc93,2022-08-26,Bata de BaÒo,Ropa,10,76.36,763.6
-04c5fd17-1ef5-40ad-a364-09411d6b7ccf,2024-02-27,Ropa Interior TÈrmica,Ropa,17,78.58,1335.86
+f8da731a-30cb-472a-af4a-57ec3d6e7b26,2023-02-07,Pijama de Algod√≥n,Ropa,16,4.12,65.92
+6ebcd8bf-a327-4c25-bddb-8646baa1fc93,2022-08-26,Bata de Ba√±o,Ropa,10,76.36,763.6
+04c5fd17-1ef5-40ad-a364-09411d6b7ccf,2024-02-27,Ropa Interior T√©rmica,Ropa,17,78.58,1335.86
 29cc2a4b-9c89-44a2-904f-839bbaf20e21,2020-08-13,Calcetines de Lana,Ropa,16,73.77,1180.32
 729ca1eb-bb60-4412-9fce-ba9e2f65e77a,2020-11-04,Guantes de Cuero,Ropa,11,61.13,672.43
 c6b85ce9-e6ce-4f4b-a524-64f088781591,2021-05-14,Bufanda de Cachemira,Ropa,19,,678.11
 62a85763-bb37-4b5c-ac01-c965d23a7f5d,2020-02-23,Sombrero de Paja,Ropa,17,,242.25
-015c2200-da27-4600-af7b-b490b736d73a,2020-06-04,Gorra de BÈisbol,Ropa,2,70.55,141.1
+015c2200-da27-4600-af7b-b490b736d73a,2020-06-04,Gorra de B√©isbol,Ropa,2,70.55,141.1
 6aed47be-8452-4a71-bc89-c64a1e301b7e,2022-11-27,Ropa Deportiva,Ropa,11,13.29,146.19
 d7fdfb06-8405-43f8-a98b-bab5a8663ac2,2024-03-30,Medias de Nylon,Ropa,13,55.88,726.44
 e219502e-c05f-414e-b8f4-74cafb9f6126,2023-02-26,Calzoncillos Boxer,Ropa,5,32.23,161.15
@@ -923,9 +923,9 @@ af2995fd-3880-45d5-ad7f-558fe9a28012,2022-05-17,Botas de Invierno,Ropa,3,20.6,61
 d275d163-33ab-4688-8e3b-94ab4eec85ef,2022-07-06,Zapatillas de Deporte,Ropa,3,14.22,42.66
 f45c3c8e-bd03-4f26-9068-2d10d15fa677,2023-06-01,Tacones Altos,Ropa,17,29.41,499.97
 f3fe62ea-fc0a-4925-9be5-362fbbfc4752,2023-10-31,Mocasines,Ropa,3,72.17,216.51
-867d80dd-52eb-436b-a649-f14023b3468b,2021-08-06,CamisÛn,Ropa,8,78.36,626.88
+867d80dd-52eb-436b-a649-f14023b3468b,2021-08-06,Camis√≥n,Ropa,8,78.36,626.88
 ecf23589-1c63-4733-84b9-f67291a17125,2024-02-23,Babydoll,Ropa,6,93.65,561.9
-4e8ecd41-0689-41fb-96bb-db56df5d9630,2023-11-27,CinturÛn de Cuero,Ropa,11,,1007.16
+4e8ecd41-0689-41fb-96bb-db56df5d9630,2023-11-27,Cintur√≥n de Cuero,Ropa,11,,1007.16
 df288a7c-51b0-4fe6-81b4-236814571bed,2023-07-24,Tirantes,Ropa,7,99.29,695.03
 88328bb2-ed1d-428c-9e82-5933cf9110b0,2023-03-04,Calcetas Altas,Ropa,2,45.83,91.66
 192739ed-fc6c-420d-a887-2589f4f70574,2020-12-06,Calzas,Ropa,11,31.17,342.87
@@ -938,15 +938,15 @@ ede3e99b-5d8e-427e-a9c2-3f07fc026521,2023-01-30,Bermuda,Ropa,2,63.79,127.58
 78fe13ce-c1c5-499e-be6d-74cde9b21fa4,2020-06-07,Camiseta de Tirantes,Ropa,7,21.21,148.47
 c67a140e-cb18-471d-af5b-ea4bd5737d0a,2022-03-15,Body,Ropa,8,67.21,537.68
 df0d579d-dd4d-4180-b31a-d21eb66253f1,2022-03-21,Top Deportivo,Ropa,5,5.44,27.2
-338152d5-87d3-4219-981c-6a2157eb0f88,2021-03-17,Pantalones de Ch·ndal,Ropa,3,21.87,65.61
+338152d5-87d3-4219-981c-6a2157eb0f88,2021-03-17,Pantalones de Ch√°ndal,Ropa,3,21.87,65.61
 3b2a3af7-15f8-4181-8d18-4f864bacdb24,2023-03-29,Falda Plisada,Ropa,7,96.72,677.04
-d4d419cf-b873-43f0-a41c-6c4cb539c9af,2022-06-01,Vestido de CÛctel,Ropa,18,36.03,648.54
+d4d419cf-b873-43f0-a41c-6c4cb539c9af,2022-06-01,Vestido de C√≥ctel,Ropa,18,36.03,648.54
 ec9ef513-8202-4b6e-a8c9-b9caacc2fa54,2022-04-03,Abrigo Impermeable,Ropa,4,23.42,93.68
 8525d4ec-ff29-4f58-85e5-a2cf3b23e4e6,2020-06-08,Poncho,Ropa,10,8.43,84.3
 c58545f9-8f93-4741-8a99-4dfb2ee14ee0,2023-07-04,Chaleco de Lana,Ropa,3,50.82,152.46
 7003be42-1a4f-45a3-b46b-0efb06ece72c,2023-11-14,Gorro de Lana,Ropa,4,97.46,389.84
 6071a87c-74b7-4472-9224-5450d301179a,2020-10-27,Guantes de Invierno,Ropa,1,53.86,53.86
-d76023ab-959d-4824-b719-3a6016e6ffc2,2022-02-15,PaÒuelo de Seda,Ropa,15,77.64,1164.6
+d76023ab-959d-4824-b719-3a6016e6ffc2,2022-02-15,Pa√±uelo de Seda,Ropa,15,77.64,1164.6
 ae392792-ab3d-4df9-a829-15131dc30060,2020-05-01,Traje de Hombre,Ropa,,,66.88
 df82d117-701c-43ac-ac61-e3d73063dc65,2022-12-14,Chal,Ropa,18,73.73,1327.14
 f75bb50e-7b28-4919-992d-6d64800f56d1,2024-01-08,Kimono,Ropa,11,85.29,938.19
@@ -962,38 +962,38 @@ ef9ce47e-a714-4b9f-b824-8d6253a1b062,2020-06-11,Calzoncillos Brief,Ropa,10,27.9,
 99800e8b-f6b5-47e4-bd00-fe2e8b1e6632,2023-09-21,Tanga,Ropa,12,4.92,59.04
 6e868bfe-063e-4ab9-8d8a-50b523920444,2023-04-02,Sujetador de Encaje,Ropa,2,26.19,52.38
 58d4e478-b32c-4dfe-9de1-f0f0581d9eea,2022-09-13,Pijama de Seda,Ropa,18,56.38,1014.84
-db811842-0e1e-4ca4-8566-6836feca5cdb,2021-04-09,Ropa Interior de AlgodÛn,Ropa,16,,481.44
+db811842-0e1e-4ca4-8566-6836feca5cdb,2021-04-09,Ropa Interior de Algod√≥n,Ropa,16,,481.44
 acea1304-dd36-4374-8364-c91772c7fdda,2023-10-30,Batas de Dormir,Ropa,17,21.54,366.18
 b80f948e-5171-4e0b-b2d8-629d39433069,2023-04-29,Pantalones Cortos,Ropa,17,3.08,52.36
 492cf2bc-e042-44f0-9e4d-b7bd9876f466,2023-04-14,Chaleco Reflectante,Ropa,10,33.5,335
 7a286418-de50-4184-9999-6f51d1e2454c,2020-03-20,Mallas de Running,Ropa,4,1.49,5.96
-995e4119-d7b2-48ea-861d-2443acb0a681,2023-06-20,Camiseta TÈrmica,Ropa,3,92.71,278.13
+995e4119-d7b2-48ea-861d-2443acb0a681,2023-06-20,Camiseta T√©rmica,Ropa,3,92.71,278.13
 9e3aa493-8ff5-49e1-841a-393832b1bd3a,2020-03-26,Pantalones de Yoga,Ropa,9,42.24,380.16
 808862b8-2479-4e60-bbd5-e28e4f6ed345,2023-09-25,Blusa de Encaje,Ropa,17,50.41,856.97
 dbc9c6f2-d709-41cf-ad4f-67bd39629e95,2020-11-09,Bata de Casa,Ropa,11,,42.57
 feb03ca6-a465-4a40-ac31-4f7d116931cd,2022-06-04,Guantes de Trabajo,Ropa,7,,144.62
 49a70c3b-43aa-4f90-bb0e-c119e7521d49,2023-04-22,Zapatillas de Estar por Casa,Ropa,14,52.73,738.22
 c65df10a-89ad-4421-9d86-3212080a5096,2021-05-27,Botines,Ropa,11,44.88,493.68
-b7c8cc9f-6473-4a76-b5ce-b856fd579427,2022-04-26,Zapatos de TacÛn,Ropa,1,68.18,68.18
+b7c8cc9f-6473-4a76-b5ce-b856fd579427,2022-04-26,Zapatos de Tac√≥n,Ropa,1,68.18,68.18
 e8942193-0f59-44a5-90b9-bc3ca227a99a,2024-05-03,Zapatos de Vestir,Ropa,13,16.43,213.59
 2e767cc8-1eeb-44df-a139-9fc7dd07004c,2021-10-05,Foulard,Ropa,18,54.6,982.8
 dc3c2db6-28f5-403d-85cd-9c92644a6153,2024-04-08,Cinta para el Pelo,Ropa,12,3.15,37.8
-8c2bd60c-d996-4332-852c-81f48dd56d41,2023-07-26,Camiseta de AlgodÛn,Ropa,15,42.55,638.25
+8c2bd60c-d996-4332-852c-81f48dd56d41,2023-07-26,Camiseta de Algod√≥n,Ropa,15,42.55,638.25
 5a57134d-b843-4f34-8250-9031b18630b6,2022-07-04,Camisa de Vestir,Ropa,14,74.71,1045.94
 aa05eb63-9508-47e0-a051-488f1e8c55c6,2021-06-19,Pantalones Vaqueros,Ropa,,98.08,1078.88
-b5424f16-cc9f-458d-91ba-da889e01b7b9,2023-03-29,Falda L·piz,Ropa,6,45.76,274.56
+b5424f16-cc9f-458d-91ba-da889e01b7b9,2023-03-29,Falda L√°piz,Ropa,6,45.76,274.56
 81b08976-2929-443c-ae7c-cfccbba861cc,2020-12-01,Vestido de Noche,Ropa,12,31.84,382.08
 fa986350-4093-41d2-b391-017ee0053a4a,2020-10-22,Chaqueta de Cuero,Ropa,10,72.79,727.9
 739faf4d-53bb-46f4-b373-9583911c6416,2021-02-21,Abrigo de Lana,Ropa,,34.15,443.95
-c5724f38-f432-4813-9cc6-3d64c705d374,2021-04-07,SuÈter de Punto,Ropa,,60.57,847.98
+c5724f38-f432-4813-9cc6-3d64c705d374,2021-04-07,Su√©ter de Punto,Ropa,,60.57,847.98
 f672106f-795f-46d7-b66d-93635144ad86,2021-06-30,Sudadera con Capucha,Ropa,11,2.85,31.35
-97517d78-ab17-4f2e-abe6-bb233fc27a89,2020-01-28,Ch·ndal,Ropa,19,65.97,1253.43
+97517d78-ab17-4f2e-abe6-bb233fc27a89,2020-01-28,Ch√°ndal,Ropa,19,65.97,1253.43
 402eecb5-8e43-4d39-aca3-ad29a4c0878e,2023-04-13,Leggings Deportivos,Ropa,18,60.99,1097.82
-895163d9-dd2e-46d4-9968-98ada71bb9cb,2022-11-21,Traje de BaÒo,Ropa,,9.55,114.6
-7c1c6116-ad3b-423c-b712-3852996aa796,2020-09-15,BaÒador de Hombre,Ropa,14,52.64,736.96
+895163d9-dd2e-46d4-9968-98ada71bb9cb,2022-11-21,Traje de Ba√±o,Ropa,,9.55,114.6
+7c1c6116-ad3b-423c-b712-3852996aa796,2020-09-15,Ba√±ador de Hombre,Ropa,14,52.64,736.96
 2fd87bc8-9b98-40ec-be31-4c6cdf1c1a56,2022-05-05,Blusa de Seda,Ropa,5,82.57,412.85
 209746a6-edd8-430a-9553-c982b10920ff,2021-04-09,Polo de Manga Corta,Ropa,11,97.23,1069.53
-980133dc-5cb8-40d8-aa12-9f141a4d7afd,2020-09-03,C·rdigan,Ropa,19,,927.96
+980133dc-5cb8-40d8-aa12-9f141a4d7afd,2020-09-03,C√°rdigan,Ropa,19,,927.96
 453bcd9d-de06-4387-b099-55adb7131a43,2023-10-11,Chaqueta Vaquera,Ropa,6,32.72,196.32
 8b8a1faa-8690-42ff-b2f6-de064973687d,2022-04-06,Gabardina,Ropa,,83.26,582.82
 f29e7b41-cf29-4978-9c02-400b76f63895,2024-01-17,Chaleco Acolchado,Ropa,12,87.69,1052.28
